@@ -32,7 +32,6 @@ export const metadata: Metadata = {
     "Little Troubles in Spooky Town bottles",
     "Little Troubles in Spooky Town flowers",
   ],
-  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     url: "/",
