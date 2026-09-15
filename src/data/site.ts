@@ -36,6 +36,4 @@ export const routes = [
   { path: "/bugs-fixes/", priority: 0.8, changeFrequency: "weekly" },
   { path: "/updates/", priority: 0.65, changeFrequency: "weekly" },
   { path: "/about/", priority: 0.35, changeFrequency: "monthly" },
-  { path: "/privacy-policy/", priority: 0.2, changeFrequency: "yearly" },
-  { path: "/terms/", priority: 0.2, changeFrequency: "yearly" },
-] as const;
+  ] as const;

@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: GuideRouteProps): Promise<Met
   const page = getGuidePage(slug);
   if (!page) return {};
   const monthYear = getMonthYear();
+  const isLegal = ["privacy-policy", "terms"].includes(slug);
   return {
     title: `${page.title} (${monthYear})`,
     description: page.description,

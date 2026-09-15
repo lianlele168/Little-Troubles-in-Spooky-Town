@@ -381,7 +381,7 @@ const generalPages: GuidePage[] = [
       { heading: "Task tracker data", paragraphs: ["Checklist progress is saved in localStorage on your device. It is not submitted to this site's server by the tracker."] },
       { heading: "Hosting and logs", paragraphs: ["The hosting provider may process basic request data such as IP address, browser type, requested URL, and timestamps for security and delivery."] },
       { heading: "Third-party content", paragraphs: ["The play page can load an official itch.io frame. itch.io and the game host may receive connection data under their own policies. External links open those services directly."] },
-      { heading: "Analytics, ads, and updates", paragraphs: ["If analytics, advertising, or consent tools are enabled, this policy and any required consent controls will be updated before those services are used."] },
+      { heading: "Analytics, ads, and updates", paragraphs: ["We comply with COPPA child privacy standards. No personal information is collected from players under 13. Direct questions can be sent to contact@robloxwikihub.com."] },
     ],
   },
   {
