@@ -15,25 +15,25 @@ export const site = {
 } as const;
 
 export const navItems = [
-  { href: "/walkthrough/", label: "Walkthrough" },
-  { href: "/tasks/", label: "All Tasks" },
-  { href: "/task-tracker/", label: "Task Tracker" },
-  { href: "/outfits-abilities/", label: "Abilities" },
-  { href: "/item-locations/", label: "Items" },
-  { href: "/play/", label: "Play" },
+  { href: "/walkthrough", label: "Walkthrough" },
+  { href: "/tasks", label: "All Tasks" },
+  { href: "/task-tracker", label: "Task Tracker" },
+  { href: "/outfits-abilities", label: "Abilities" },
+  { href: "/item-locations", label: "Items" },
+  { href: "/play", label: "Play" },
 ] as const;
 
 export const routes = [
   { path: "/", priority: 1, changeFrequency: "daily" },
-  { path: "/walkthrough/", priority: 0.95, changeFrequency: "weekly" },
-  { path: "/tasks/", priority: 0.95, changeFrequency: "weekly" },
-  { path: "/task-tracker/", priority: 0.95, changeFrequency: "weekly" },
-  { path: "/play/", priority: 0.9, changeFrequency: "weekly" },
-  { path: "/outfits-abilities/", priority: 0.9, changeFrequency: "weekly" },
-  { path: "/how-to-fly/", priority: 0.9, changeFrequency: "weekly" },
-  { path: "/item-locations/", priority: 0.88, changeFrequency: "weekly" },
-  { path: "/controls/", priority: 0.8, changeFrequency: "monthly" },
-  { path: "/bugs-fixes/", priority: 0.8, changeFrequency: "weekly" },
-  { path: "/updates/", priority: 0.65, changeFrequency: "weekly" },
-  { path: "/about/", priority: 0.35, changeFrequency: "monthly" },
+  { path: "/walkthrough", priority: 0.95, changeFrequency: "weekly" },
+  { path: "/tasks", priority: 0.95, changeFrequency: "weekly" },
+  { path: "/task-tracker", priority: 0.95, changeFrequency: "weekly" },
+  { path: "/play", priority: 0.9, changeFrequency: "weekly" },
+  { path: "/outfits-abilities", priority: 0.9, changeFrequency: "weekly" },
+  { path: "/how-to-fly", priority: 0.9, changeFrequency: "weekly" },
+  { path: "/item-locations", priority: 0.88, changeFrequency: "weekly" },
+  { path: "/controls", priority: 0.8, changeFrequency: "monthly" },
+  { path: "/bugs-fixes", priority: 0.8, changeFrequency: "weekly" },
+  { path: "/updates", priority: 0.65, changeFrequency: "weekly" },
+  { path: "/about", priority: 0.35, changeFrequency: "monthly" },
   ] as const;

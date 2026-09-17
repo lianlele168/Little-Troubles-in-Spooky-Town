@@ -10,7 +10,7 @@ interface AuthorCardProps {
 }
 
 export default function AuthorCard({
-  authorName = "Roblox Wiki Hub Research Desk"Pumpkin" Holloway',
+  authorName = 'Ember "Pumpkin" Holloway',
   role = 'Lead Spooky Town Quest Cartographer & Task Completionist',
   experience = '200+ Hours In-Game • 100% Task & Outfit Completion',
   patchVersion = 'Halloween Event Build v1.08 Verified',

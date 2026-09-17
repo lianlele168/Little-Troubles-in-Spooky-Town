@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: GuideRouteProps): Promise<Met
   return {
     title: `${page.title} (${monthYear})`,
     description: page.description,
-    alternates: { canonical: `/${page.slug}/` },
+    alternates: { canonical: `/${page.slug}` },
     openGraph: { type: "article", url: `/${page.slug}/`, title: page.title, description: page.description, images: [page.image ?? "/gameplay-town-wide.png"] },
     twitter: { card: "summary_large_image", title: page.title, description: page.description, images: [page.image ?? "/gameplay-town-wide.png"] },
   };

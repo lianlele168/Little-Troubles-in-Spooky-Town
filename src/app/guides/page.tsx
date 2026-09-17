@@ -9,7 +9,7 @@ import { breadcrumbSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Little Troubles in Spooky Town 100% Walkthrough Guide (September 2026)",
   description: "Complete 100% speedrun and quest walkthrough for Little Troubles in Spooky Town. Solve all 11 town tasks, find secret island shortcuts, and unlock all wardrobe outfits.",
-  alternates: { canonical: "/guides/" },
+  alternates: { canonical: "/guides" },
 };
 
 const GUIDE_FAQS = [
