@@ -326,8 +326,8 @@ const generalPages: GuidePage[] = [
       {
         heading: "Release record",
         bullets: [
-          "Published on itch.io on August 15, 2026.",
-          "Official page update and Windows 1.1 upload recorded on August 17, 2026.",
+          "Published on itch.io on .",
+          "Official page update and Windows 1.1 upload recorded on .",
           "Current checked build displays 11 tasks and includes the final Tell Your Parents objective.",
           "Official credits name Kenney, Samantha van der Sluis for music, Unity, and Super Text Mesh.",
         ],

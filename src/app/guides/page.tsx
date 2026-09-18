@@ -7,7 +7,7 @@ import JsonLd from "@/components/JsonLd";
 import { breadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Little Troubles in Spooky Town 100% Walkthrough Guide (September 2026)",
+  title: "Little Troubles in Spooky Town 100% Walkthrough Guide ",
   description: "Complete 100% speedrun and quest walkthrough for Little Troubles in Spooky Town. Solve all 11 town tasks, find secret island shortcuts, and unlock all wardrobe outfits.",
   alternates: { canonical: "/guides/" },
 };
@@ -35,7 +35,7 @@ export default function GuidesPage() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    dateModified: "2026-09-15",
+
     author: {
       "@type": "Person",
       name: 'Penny "Pumpkin" Holloway',

@@ -1,6 +1,6 @@
 # Little Troubles in Spooky Town - Verified Product Facts
 
-Last verified: 2026-08-24
+Last verified: 
 
 ## Primary sources
 
@@ -13,8 +13,8 @@ Last verified: 2026-08-24
 
 - Official title: Little Troubles in Spooky Town
 - Developer: Kenney
-- Published: 2026-08-15
-- Updated: 2026-08-17 when checked
+- Published: 
+- Updated: when checked
 - Platforms: HTML5 and downloadable Windows build
 - Engine: Unity
 - Genre: Adventure

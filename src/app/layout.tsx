@@ -20,7 +20,7 @@ const fredoka = Fredoka({
 export const metadata: Metadata = {
   metadataBase: new URL(site.baseUrl),
   title: {
-    default: "Little Troubles in Spooky Town Guide (August 2026)",
+    default: "Little Troubles in Spooky Town Guide ",
     template: "%s | Little Troubles Guide",
   },
   description: site.description,

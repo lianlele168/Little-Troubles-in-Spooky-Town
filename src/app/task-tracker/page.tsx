@@ -6,7 +6,7 @@ import TaskTracker from "@/components/TaskTracker";
 import { breadcrumbSchema, trackerSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Little Troubles Task Tracker (August 2026)",
+  title: "Little Troubles Task Tracker ",
   description: "Track all 11 Little Troubles in Spooky Town objectives with a free checklist that saves progress locally in your browser.",
   alternates: { canonical: "/task-tracker/" },
   openGraph: { url: "/task-tracker/", images: ["/gameplay-town-wide.png"] },

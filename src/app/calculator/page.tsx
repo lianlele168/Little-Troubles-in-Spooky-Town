@@ -7,7 +7,7 @@ import AuthorCard from "@/components/AuthorCard";
 import { breadcrumbSchema, trackerSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Little Troubles Task & Reward Calculator (September 2026)",
+  title: "Little Troubles Task & Reward Calculator ",
   description: "Calculate quest completion percentage, candy rewards, and outfit milestones across all 11 town objectives in Little Troubles in Spooky Town.",
   alternates: { canonical: "/calculator/" },
 };
@@ -41,7 +41,7 @@ export default function CalculatorPage() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    dateModified: "2026-09-15",
+
     author: {
       "@type": "Person",
       name: 'Penny "Pumpkin" Holloway',

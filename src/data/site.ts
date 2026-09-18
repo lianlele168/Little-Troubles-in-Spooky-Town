@@ -7,9 +7,9 @@ export const site = {
   officialUpdateUrl: "https://itch.io/e/44513804/kenney-updated-little-troubles-in-spooky-town",
   officialTrailerUrl: "https://www.youtube.com/watch?v=ROYqAg3yHtM",
   directGameUrl: "https://html-classic.itch.zone/html/18827138/index.html?v=1786881998",
-  published: "2026-08-15",
-  updated: "2026-08-17",
-  lastChecked: "2026-08-24",
+  published: "",
+  updated: "",
+  lastChecked: "",
   description:
     "An unofficial Little Troubles in Spooky Town walkthrough with all 11 tasks, outfit abilities, collectible locations, fixes, browser play, and a saved task tracker.",
 } as const;

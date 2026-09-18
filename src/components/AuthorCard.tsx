@@ -14,7 +14,7 @@ export default function AuthorCard({
   role = 'Lead Spooky Town Quest Cartographer & Task Completionist',
   experience = '200+ Hours In-Game • 100% Task & Outfit Completion',
   patchVersion = 'Halloween Event Build v1.08 Verified',
-  lastUpdated = 'September 2026',
+  lastUpdated = '',
   editorialNote = 'All 82 town quests, NPC dialogue triggers, hidden island shortcuts, and outfit unlock prerequisites are cross-checked and verified across all live browser game states.',
 }: AuthorCardProps) {
   return (
@@ -41,9 +41,7 @@ export default function AuthorCard({
           <span className="inline-flex items-center px-2.5 py-1 rounded-lg text-xs font-medium bg-amber-500/10 text-amber-300 border border-amber-500/20">
             ⚡ {patchVersion}
           </span>
-          <span className="text-xs text-gray-400">
-            Updated: <strong className="text-gray-200">{lastUpdated}</strong>
-          </span>
+          
         </div>
       </div>
 
