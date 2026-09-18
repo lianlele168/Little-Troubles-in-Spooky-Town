@@ -9,7 +9,7 @@ import { breadcrumbSchema, trackerSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Little Troubles Task & Reward Calculator (September 2026)",
   description: "Calculate quest completion percentage, candy rewards, and outfit milestones across all 11 town objectives in Little Troubles in Spooky Town.",
-  alternates: { canonical: "/calculator" },
+  alternates: { canonical: "/calculator/" },
 };
 
 const CALCULATOR_FAQS = [
