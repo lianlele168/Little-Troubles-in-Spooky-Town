@@ -10,9 +10,9 @@ interface AuthorCardProps {
 }
 
 export default function AuthorCard({
-  authorName = 'Ember "Pumpkin" Holloway',
-  role = 'Lead Spooky Town Quest Cartographer & Task Completionist',
-  experience = '200+ Hours In-Game • 100% Task & Outfit Completion',
+  authorName = 'Hlele',
+  role = 'Editor',
+  experience = 'AI-assisted research, human-reviewed',
   patchVersion = 'Halloween Event Build v1.08 Verified',
   lastUpdated = '',
   editorialNote = 'All 82 town quests, NPC dialogue triggers, hidden island shortcuts, and outfit unlock prerequisites are cross-checked and verified across all live browser game states.',
