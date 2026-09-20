@@ -38,7 +38,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="fact-strip" aria-label="Verified game totals">
+      <section className="fact-strip" aria-label="game totals">
         <div className="page-shell fact-grid">
           <div><strong>11</strong><span>tracked tasks</span></div>
           <div><strong>10</strong><span>Ghoul-Aid bottles</span></div>

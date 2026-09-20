@@ -131,7 +131,7 @@ const generalPages: GuidePage[] = [
         ],
       },
       {
-        heading: "Verified task unlocks",
+        heading: "Task unlocks",
         steps: [
           { title: "Talented", body: "Return the lost telescope to the scholar ghost." },
           { title: "Strong", body: "Cheer the cemetery ghost while wearing Silly." },
@@ -208,7 +208,7 @@ const generalPages: GuidePage[] = [
     imageAlt: "Beach collectible route in Little Troubles in Spooky Town",
     sections: [
       {
-        heading: "Verified totals",
+        heading: "Totals",
         bullets: [
           "6 flowers for the flower-shop ghost.",
           "10 Ghoul-Aid bottles for the delivery ghost.",
