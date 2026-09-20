@@ -44,8 +44,8 @@ export default function CalculatorPage() {
 
     author: {
       "@type": "Person",
-      name: 'Penny "Pumpkin" Holloway',
-      jobTitle: "Lead Spooky Town Quest Cartographer & Task Completionist",
+      name: 'Hlele',
+      jobTitle: 'Editor',
     },
     mainEntity: CALCULATOR_FAQS.map((faq) => ({
       "@type": "Question",

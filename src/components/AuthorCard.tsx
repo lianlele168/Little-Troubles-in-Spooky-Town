@@ -13,9 +13,9 @@ export default function AuthorCard({
   authorName = 'Hlele',
   role = 'Editor',
   experience = 'AI-assisted research, human-reviewed',
-  patchVersion = 'Halloween Event Build v1.08 Verified',
+  patchVersion = 'Halloween Event Build v1.08',
   lastUpdated = '',
-  editorialNote = 'All 82 town quests, NPC dialogue triggers, hidden island shortcuts, and outfit unlock prerequisites are cross-checked and verified across all live browser game states.',
+  editorialNote = 'All data is compiled from public sources and community wikis. Any figure we could not confirm from a public source is labeled as unverified rather than estimated.',
 }: AuthorCardProps) {
   return (
     <div className="w-full rounded-2xl bg-[#140e1f]/90 border border-purple-800/40 p-4 sm:p-5 backdrop-blur-md my-6 shadow-xl font-sans">
@@ -28,7 +28,7 @@ export default function AuthorCard({
             <div className="flex items-center space-x-2">
               <span className="font-bold text-white text-sm sm:text-base">{authorName}</span>
               <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-semibold bg-purple-500/10 text-purple-400 border border-purple-500/20 font-mono">
-                ✓ Verified by lianlele168
+                Independent editorial
               </span>
             </div>
             <p className="text-xs text-gray-400 mt-0.5">
