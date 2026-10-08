@@ -1,0 +1,76 @@
+{
+  "path": "/collect-all-flowers/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:53.719Z",
+  "testedUrl": "http://127.0.0.1:64862/collect-all-flowers/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/collect-all-flowers/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-flowers-390.png",
+        "sha256": "693b7405cae33af41267036f8b1b95a692edc36af271b6ce64a78d1681a833c7"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-flowers-768.png",
+        "sha256": "5ca01a2113dc6a5120defb800e1ad1425a3bbe3449aad9aeea29a4a8d0da8694"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-flowers-1024.png",
+        "sha256": "87a946cba4fa2d6b64c6c4eb16da449e5ea61dfa2abef8cfc2ec9e2ca3cc2dde"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-flowers-1440.png",
+        "sha256": "79721381e2a744161244ba6c8f9c87fcb7bd3ed520f9607dec7735e9d3d29fee"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

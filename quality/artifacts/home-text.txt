@@ -1,0 +1,28 @@
+INDEPENDENT PLAYER COMPANION
+
+Little Troubles
+in Spooky Town
+
+Controller prompts on a keyboard? A float ability that will not jump? A missing barbell? Find a focused answer tied to Kenney’s published instructions.
+
+Find a control
+Open official game
+
+CHOOSE YOUR PROBLEM
+
+Get back to the game
+Little Troubles Controls: Keyboard and Gamepad
+Translate the controller prompts into keyboard inputs using Kenney’s published control list.
+How to Use Float in Little Troubles
+After the float ability is unlocked, the developer says to press Spacebar again to double jump.
+Little Troubles Missing Barbell Location
+Look on top of the house near the plaza. That is the location given by Kenney in the official game’s comments.
+Little Troubles Browser and Input Troubleshooting
+Use the developer’s supported-platform and performance advice before repeating a blocked task.
+What this guide covers
+
+Kenney’s official release supports HTML5, Windows and Linux. Our reference covers published controls, specific developer answers and troubleshooting. It does not claim a full walkthrough or an optimal quest order.
+
+The earlier full-task route contained unsupported details and has been withdrawn. Read the source and correction log for the scope of this revision.
+
+Editorial identity: Hlele. Research review: Codex agent. No human playtest is claimed.

@@ -1,0 +1,76 @@
+{
+  "path": "/outfits-abilities/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:10.792Z",
+  "testedUrl": "http://127.0.0.1:64862/outfits-abilities/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/outfits-abilities/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/outfits-abilities-390.png",
+        "sha256": "0da1c434c1ec1f853c72e6ab7bff47215b2012d5a718cde15c4152311b867277"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/outfits-abilities-768.png",
+        "sha256": "83fe89e5736e55f1956b2d8e3cd71272940c9fc6a91eb64af347c196333edfc5"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/outfits-abilities-1024.png",
+        "sha256": "3b1445831e843ed05d0835d2061ecd0e76b55486aea4a179ad19f33d005ab22f"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/outfits-abilities-1440.png",
+        "sha256": "5d63cd9cfd049ee120b094d78b8846b940f0b9e9d40d6e26865638b9955f5fa6"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

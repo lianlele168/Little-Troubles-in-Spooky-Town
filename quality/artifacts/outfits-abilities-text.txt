@@ -1,0 +1,95 @@
+Home
+/
+Outfits and Abilities Guide
+
+TRAITS, MOVEMENT, OCCUPATIONS
+
+Outfits and Abilities Guide
+
+Outfits are the game's puzzle system. A look combines one trait, one movement ability, and one occupation; NPC hints name the exact pieces they expect.
+
+Official game
+Task tracker
+Trait
+Friendly
+Talented
+Silly
+Strong
+Cool
+Movement
+Wandering
+Quick
+Flying
+Magnetic
+Occupation
+Ghost
+Engineer
+Musician
+Cleaner
+Salesperson
+The three outfit rows
+Traits: Friendly, Talented, Silly, Strong, and Cool.
+Movement abilities: Wandering, Quick, Flying, and Magnetic.
+Occupations: Ghost, Engineer, Musician, Cleaner, and Salesperson.
+Task unlocks
+1
+Talented
+
+Return the lost telescope to the scholar ghost.
+
+2
+Strong
+
+Cheer the cemetery ghost while wearing Silly.
+
+3
+Quick
+
+Return the missing barbell while wearing Strong.
+
+4
+Flying
+
+Finish the linked song conversations and Free a Spirit.
+
+5
+Cleaner
+
+Return all 6 scattered flowers.
+
+6
+Engineer
+
+Return all 10 Ghoul-Aid bottles.
+
+7
+Magnetic
+
+Fix the leak while dressed as Strong + Engineer.
+
+8
+Cool
+
+Clean all 10 purple puddles around the island.
+
+Important combinations
+Talented + Musician opens the different-song conversation.
+Strong + Engineer satisfies both hints at the leaking valve.
+Cool + Salesperson convinces the remote buyer to take the house.
+Flying is a travel ability; land first, then switch outfits for the destination conversation.
+Frequently asked questions
+Are outfits only cosmetic?
+How do I change outfits?
+
+CHECKED SOURCE
+
+Current playable build
+
+Current task names, totals, dependencies, and ending were verified against the playable build.
+
+CONTINUE
+
+How to Fly in Little Troubles in Spooky Town
+Item and Collectible Locations
+Little Troubles in Spooky Town Controls
+Little Troubles in Spooky Town Bugs and Fixes

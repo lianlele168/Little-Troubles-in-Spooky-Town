@@ -1,0 +1,76 @@
+{
+  "path": "/help-sell-a-house/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:05.919Z",
+  "testedUrl": "http://127.0.0.1:64862/help-sell-a-house/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/help-sell-a-house/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/help-sell-a-house-390.png",
+        "sha256": "09aec4f06c3693893d5f13db86aaf6e76f646f8b5c9a7b72851f31df492a2200"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/help-sell-a-house-768.png",
+        "sha256": "3beda8723847365a48662a85a77c8a37c80188368595079aee8b33f4059364c7"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/help-sell-a-house-1024.png",
+        "sha256": "dba74ac8b8e6576b6d3eb33b09015c01f9bad070f8979b311e87abfb6debd918"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/help-sell-a-house-1440.png",
+        "sha256": "c28641241b80f24dbbb5e602b10956f60aab60acc603e2fff5235d41063195b0"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

@@ -4,13 +4,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, ArrowUpRight, CheckCircle2, ExternalLink, Info, ListChecks } from "lucide-react";
 import JsonLd from "@/components/JsonLd";
-import OutfitMatrix from "@/components/OutfitMatrix";
-import PlayFrame from "@/components/PlayFrame";
-import TaskDirectory from "@/components/TaskDirectory";
+
+
+
 import { getGuidePage, guidePages } from "@/data/pages";
 import { site } from "@/data/site";
-import { getTownTask } from "@/data/tasks";
-import { getMonthYear } from "@/lib/date";
+
 import { articleSchema, breadcrumbSchema, faqSchema, howToSchema } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -23,10 +22,9 @@ export async function generateMetadata({ params }: GuideRouteProps): Promise<Met
   const { slug } = await params;
   const page = getGuidePage(slug);
   if (!page) return {};
-  const monthYear = getMonthYear();
   const isLegal = ["privacy-policy", "terms"].includes(slug);
   return {
-    title: `${page.title} (${monthYear})`,
+    title: `${page.title}`,
     description: page.description,
     ...(isLegal ? { robots: { index: false, follow: true } } : {}),
     alternates: { canonical: `/${page.slug}/` },
@@ -39,7 +37,7 @@ export default async function GuidePageRoute({ params }: GuideRouteProps) {
   const { slug } = await params;
   const page = getGuidePage(slug);
   if (!page) notFound();
-  const task = getTownTask(slug);
+
   const stepSection = page.sections.find((section) => section.steps?.length);
 
   const schemas: object[] = [
@@ -67,25 +65,10 @@ export default async function GuidePageRoute({ params }: GuideRouteProps) {
           <p className="article-summary">{page.summary}</p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a href={site.officialUrl} target="_blank" rel="noopener noreferrer" className="btn-primary">Official game <ArrowUpRight className="h-4 w-4" /></a>
-            {page.slug !== "tasks" ? <Link href="/task-tracker/" className="btn-hero-secondary"><ListChecks className="h-4 w-4" />Task tracker</Link> : null}
           </div>
         </div>
       </section>
 
-      {task ? (
-        <section className="task-facts">
-          <div className="page-shell task-facts-grid">
-            <div><span>Route step</span><strong>{task.id} of 11</strong></div>
-            <div><span>Area</span><strong>{task.area}</strong></div>
-            <div><span>Required</span><strong>{task.requirement}</strong></div>
-            <div><span>Reward</span><strong>{task.reward}</strong></div>
-          </div>
-        </section>
-      ) : null}
-
-      {page.slug === "play" ? <section className="page-section pb-0"><div className="page-shell"><PlayFrame /></div></section> : null}
-      {page.slug === "tasks" ? <section className="page-section task-band"><div className="page-shell"><TaskDirectory /></div></section> : null}
-      {page.slug === "outfits-abilities" ? <section className="page-section outfit-band"><div className="page-shell"><OutfitMatrix /></div></section> : null}
 
       <section className="page-section">
         <div className="page-shell article-layout">
@@ -118,7 +101,7 @@ export default async function GuidePageRoute({ params }: GuideRouteProps) {
           </article>
 
           <aside className="article-aside">
-            <div><p className="eyebrow">Checked source</p><strong>Current playable build</strong><p>Current task names, totals, dependencies, and ending were verified against the playable build.</p></div>
+            <div><p className="eyebrow">Checked source</p><strong>Developer documentation</strong><p>Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.</p></div>
             <div><p className="eyebrow">Continue</p><nav>{related.map((item) => <Link key={item.slug} href={`/${item.slug}/`}>{item.title}<ArrowRight className="h-4 w-4" /></Link>)}</nav></div>
           </aside>
         </div>

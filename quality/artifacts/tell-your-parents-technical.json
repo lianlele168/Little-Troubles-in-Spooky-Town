@@ -1,0 +1,76 @@
+{
+  "path": "/tell-your-parents/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:17.892Z",
+  "testedUrl": "http://127.0.0.1:64862/tell-your-parents/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/tell-your-parents/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tell-your-parents-390.png",
+        "sha256": "49a05df1904243162891f40e0bce7ee1186836721a5f40c8cca82c79b53a71e0"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tell-your-parents-768.png",
+        "sha256": "d2a306b84cd3a36ec549f787c0fd0afbf19c2efedb807858fe87fbac425e10e1"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tell-your-parents-1024.png",
+        "sha256": "0cf8401fbeae5a4a84eb58fcd8b8c65b8a396926785626a99966fa1f7a204a1d"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tell-your-parents-1440.png",
+        "sha256": "0f915ae8eef6ed12c5367da543e7646fef2c1fe34a069f4f89124e3a808b9651"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

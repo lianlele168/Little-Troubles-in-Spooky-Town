@@ -1,0 +1,381 @@
+{
+  "checkedAt": "2026-10-08T16:00:54.910Z",
+  "reviewer": "Codex agent / HTML5 repairs",
+  "tests": [
+    {
+      "name": "all-route readability metrics",
+      "status": "passed",
+      "evidence": "10 routes at 390/768/1024/1440px; no horizontal overflow, offscreen body text or body font below 12px. Screenshot review is separately recorded."
+    },
+    {
+      "name": "mobile menu",
+      "status": "passed",
+      "evidence": "Navigation opens at 390px"
+    },
+    {
+      "name": "search empty/results/escape",
+      "status": "passed",
+      "evidence": "No-result feedback, actual matching page, closes by Escape"
+    },
+    {
+      "name": "unknown URL 404",
+      "status": "passed",
+      "evidence": "HTTP 404 instead of home 200"
+    },
+    {
+      "name": "retired route /tasks/",
+      "status": "passed",
+      "evidence": "HTTP 404"
+    },
+    {
+      "name": "retired route /walkthrough/",
+      "status": "passed",
+      "evidence": "HTTP 404"
+    },
+    {
+      "name": "retired route /calculator/",
+      "status": "passed",
+      "evidence": "HTTP 404"
+    },
+    {
+      "name": "retired route /task-tracker/",
+      "status": "passed",
+      "evidence": "HTTP 404"
+    },
+    {
+      "name": "retired route /collect-all-bottles/",
+      "status": "passed",
+      "evidence": "HTTP 404"
+    },
+    {
+      "name": "corrected barbell answer",
+      "status": "passed",
+      "evidence": "Main text gives developer rooftop location"
+    }
+  ],
+  "readability": [
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 9
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 9
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 9
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 9
+    },
+    {
+      "route": "/about/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/about/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/about/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/bugs-fixes/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 16
+    },
+    {
+      "route": "/bugs-fixes/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 16
+    },
+    {
+      "route": "/bugs-fixes/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 16
+    },
+    {
+      "route": "/bugs-fixes/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 16
+    },
+    {
+      "route": "/controls/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 17
+    },
+    {
+      "route": "/controls/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 17
+    },
+    {
+      "route": "/controls/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 17
+    },
+    {
+      "route": "/controls/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 17
+    },
+    {
+      "route": "/find-the-missing-barbell/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/find-the-missing-barbell/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/find-the-missing-barbell/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/find-the-missing-barbell/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/how-to-fly/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/how-to-fly/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/how-to-fly/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/how-to-fly/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/play/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/play/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/play/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/play/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/terms/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/terms/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/terms/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/terms/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 10
+    },
+    {
+      "route": "/updates/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/updates/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/updates/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    },
+    {
+      "route": "/updates/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "outside": [],
+      "textNodes": 12
+    }
+  ],
+  "calibration": [],
+  "errors": [],
+  "status": "passed"
+}

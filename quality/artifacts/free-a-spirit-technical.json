@@ -1,0 +1,76 @@
+{
+  "path": "/free-a-spirit/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:03.330Z",
+  "testedUrl": "http://127.0.0.1:64862/free-a-spirit/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/free-a-spirit/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/free-a-spirit-390.png",
+        "sha256": "d0607d786f72a0a23c14a3f7b4df3afb0413ccdc968819af452cc1729121adac"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/free-a-spirit-768.png",
+        "sha256": "68097a06e0cf0e8fc141d775c5d2e5007912c1cfa270bb0852d649bbc29bd719"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/free-a-spirit-1024.png",
+        "sha256": "14820e39d507b110af28876d150bc5c46c65ff856af3fef7ad52c721043bddac"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/free-a-spirit-1440.png",
+        "sha256": "7f3640a96ab4ed756fcd2935a17193d7143b8ba4c4178f5f443398010eacb8a1"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

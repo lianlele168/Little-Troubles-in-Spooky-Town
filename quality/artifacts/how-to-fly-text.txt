@@ -1,0 +1,35 @@
+Home
+/
+How to Use Float in Little Troubles
+
+LITTLE TROUBLES IN SPOOKY TOWN
+
+How to Use Float in Little Troubles
+
+After the float ability is unlocked, the developer says to press Spacebar again to double jump.
+
+Official game
+Keyboard input
+
+Jump with Spacebar, then press it again while airborne. Kenney clarified this in a reply to a player who had already unlocked float. The official control list maps Spacebar to the controller B button.
+
+If the extra jump does not happen
+
+Check that you have unlocked the ability and review the selected outfit using I. Do not confuse the displayed controller B prompt with the B key. This page does not claim a verified unlock quest chain or a maximum flight distance.
+
+Why the old route is absent
+
+The earlier guide attached exact quest rewards and dependencies without adequate evidence. Those claims were removed; use T to inspect your own in-game task list rather than following an invented prerequisite order.
+
+CHECKED SOURCE
+
+Developer documentation
+
+Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.
+
+CONTINUE
+
+Little Troubles Missing Barbell Location
+Little Troubles Browser and Input Troubleshooting
+Play Little Troubles in Spooky Town
+Little Troubles Sources and Corrections

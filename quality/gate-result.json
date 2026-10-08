@@ -1,0 +1,20 @@
+{
+  "name": "little-troubles-in-spooky-town-wiki",
+  "gateVersion": 2,
+  "passed": true,
+  "issues": [],
+  "warnings": [
+    "Review source authenticity, claim support, calibration correctness and inventory completeness manually. Self-authored records are not independent proof."
+  ],
+  "checks": {
+    "fingerprint": {
+      "sha256": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+      "files": 32
+    },
+    "pages": 10,
+    "claims": 14,
+    "sources": 5,
+    "artifacts": 30
+  },
+  "limitation": "Checks evidence completeness and recorded results; cannot certify fact truth, actual execution or Google indexing."
+}

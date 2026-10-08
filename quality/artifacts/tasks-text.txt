@@ -1,0 +1,131 @@
+Home
+/
+All 11 Little Troubles in Spooky Town Tasks
+
+OBJECTIVE DIRECTORY
+
+All 11 Little Troubles in Spooky Town Tasks
+
+The current release tracks 11 objectives. Each entry below has a dedicated route with the NPC, outfit combination, handoff, and reward.
+
+Official game
+01
+Find the Telescope
+
+Pick up the loose telescope by the small boat and return it to the scholar ghost beside the statue plaza.
+
+East beach to statue plaza
+No special outfit
+Talented trait
+02
+Cheer the Sad Ghost Up
+
+Change your trait to Silly, then speak to the downcast ghost sitting among the gravestones.
+
+Cemetery
+Silly trait
+Strong trait
+03
+Find the Missing Barbell
+
+Use Strong to lift the barbell near the beach workout area and hand it to the trainer ghost.
+
+Beach gym
+Strong trait
+Quick ability
+04
+Find a Different Song
+
+Meet Ghost Malone as a Talented Musician, learn another tune from the trumpet ghost, then bring it back.
+
+Central street and flower shop
+Talented + Musician
+Progresses Free a Spirit
+05
+Free a Spirit
+
+Return to the trumpet ghost after sharing their song so they can finally leave a role they never wanted.
+
+Flower shop lane
+Finish the song handoff
+Flying ability
+06
+Collect All Flowers
+
+Collect all 6 scattered flowers, including the one on a small floating platform, then return to the flower-shop ghost.
+
+Town and floating docks
+Flying for the offshore flower
+Cleaner occupation
+07
+Collect All Bottles
+
+Recover all 10 Ghoul-Aid bottles spilled around the island and report back to the delivery ghost by the crashed truck.
+
+Whole island
+Flying recommended
+Engineer occupation
+08
+Fix the Leak
+
+Wear Strong and Engineer together, then interact with the valve beside the large purple pipe in the upper town.
+
+Upper pipeworks
+Strong + Engineer
+Magnetic ability
+09
+Clean the Island
+
+Equip Cleaner and remove all 10 purple puddles across the beaches, roads and the tunnel-side parking area.
+
+Whole town
+Cleaner occupation
+Cool trait
+10
+Help Sell a House
+
+Take the for-sale lead, fly to the isolated house island, and pitch the home while dressed as a Cool Salesperson.
+
+For-sale house to offshore island
+Cool + Salesperson; Flying for travel
+Final story progress
+11
+Tell Your Parents
+
+Return to the parent ghosts near the starting house after the counter reaches 10/11 and finish the farewell conversation.
+
+Starting home
+Complete the other 10 tasks
+Ending photo
+How to reveal the list in game
+1
+Open Tasks
+
+Press T on keyboard or D-pad up on a controller.
+
+2
+Reveal hidden names
+
+Press I or the controller Y button while the task panel is open.
+
+3
+Check the counter
+
+The top-right counter moves from 0/11 to 11/11 as full objectives complete.
+
+Frequently asked questions
+Why does an official screenshot show 0/10?
+Do collectible pickups fill inventory slots?
+
+CHECKED SOURCE
+
+Current playable build
+
+Current task names, totals, dependencies, and ending were verified against the playable build.
+
+CONTINUE
+
+Outfits and Abilities Guide
+How to Fly in Little Troubles in Spooky Town
+Item and Collectible Locations
+Little Troubles in Spooky Town Controls

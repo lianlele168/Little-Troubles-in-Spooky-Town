@@ -1,0 +1,76 @@
+{
+  "path": "/task-tracker/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:14.796Z",
+  "testedUrl": "http://127.0.0.1:64862/task-tracker/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/task-tracker/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/task-tracker-390.png",
+        "sha256": "0bf5377f5f542af26039810a2fec360593ad4e4e415ed6e285d4a544baed4a42"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/task-tracker-768.png",
+        "sha256": "ffa86fcefc3bd5c31a7912483b7a100dd6ad2eee6269cb6cbeaa57a6b08ceb5d"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/task-tracker-1024.png",
+        "sha256": "80ebbc28ff42ad5bfb487b0c4f2b91f5e8735965c555772338d23db886cf2378"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/task-tracker-1440.png",
+        "sha256": "584c0123436cb97022079b9c742d15dcf28dd0a311f0971500b9ec0d8203b6f9"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

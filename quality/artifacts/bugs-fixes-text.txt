@@ -1,0 +1,43 @@
+Home
+/
+Little Troubles Browser and Input Troubleshooting
+
+LITTLE TROUBLES IN SPOOKY TOWN
+
+Little Troubles Browser and Input Troubleshooting
+
+Use the developer’s supported-platform and performance advice before repeating a blocked task.
+
+Official game
+Browser play has visual, performance or input problems
+
+Kenney recommends the downloadable version when the browser build has these problems. The official download section offers Windows and Linux builds. Open the official game page and choose Download Now; this guide does not mirror the files.
+
+The downloaded game still runs poorly
+
+Try changing visual quality through the in-game options, as recommended by the developer. This is a troubleshooting step, not a promised performance fix.
+
+macOS
+
+The developer marks macOS unsupported. A browser being available on a device does not mean this game is supported there.
+
+An unfamiliar button prompt
+
+Use the Controls page to translate controller icons into keyboard actions. The developer also documents a Chrome gamepad flag workaround on the official page; check that current instruction there because browser flags can change.
+
+Report an unresolved issue
+
+Record your operating system, browser or downloaded build, the action that fails, and any error message. Send that context through the developer’s own support/comment page. This site has no access to your game save.
+
+CHECKED SOURCE
+
+Developer documentation
+
+Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.
+
+CONTINUE
+
+Play Little Troubles in Spooky Town
+Little Troubles Sources and Corrections
+Little Troubles Controls: Keyboard and Gamepad
+How to Use Float in Little Troubles

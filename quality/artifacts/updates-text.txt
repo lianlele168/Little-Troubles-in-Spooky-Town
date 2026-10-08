@@ -1,0 +1,39 @@
+Home
+/
+Little Troubles Sources and Corrections
+
+LITTLE TROUBLES IN SPOOKY TOWN
+
+Little Troubles Sources and Corrections
+
+Sources and limits for this focused controls and troubleshooting companion.
+
+Official game
+Sources reviewed on 8 October 2026
+
+The Codex agent reviewed Kenney’s official game page, its Controls and Troubleshooting sections, and Kenney’s comments about float and the missing barbell. The page lists the game as Released on HTML5, Windows and Linux. A saved source snapshot records this review.
+
+Content removed after review
+
+The old all-task walkthrough, collectible totals, rewards, outfit dependencies and supposed optimal route did not have adequate supporting records. Those pages have been retired rather than restated as facts. The older calculator was also unrelated to a documented game model.
+
+Limits
+
+This review does not claim a complete playthrough, a tested speedrun route, or a human playtest. The maintained pages answer narrower questions that the developer’s published material supports.
+
+Official itch.io release
+Official update entry
+Official trailer
+
+CHECKED SOURCE
+
+Developer documentation
+
+Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.
+
+CONTINUE
+
+Little Troubles Controls: Keyboard and Gamepad
+How to Use Float in Little Troubles
+Little Troubles Missing Barbell Location
+Little Troubles Browser and Input Troubleshooting

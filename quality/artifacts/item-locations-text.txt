@@ -1,0 +1,61 @@
+Home
+/
+Item and Collectible Locations
+
+FLOWERS, BOTTLES, QUEST OBJECTS
+
+Item and Collectible Locations
+
+There are two tracked collectible sets plus several hand-carried quest objects. Use a clockwise sweep and finish carried-item handoffs before touching another object.
+
+Official game
+Task tracker
+Totals
+6 flowers for the flower-shop ghost.
+10 Ghoul-Aid bottles for the delivery ghost.
+10 purple puddles for the Cleaner objective.
+One carried telescope and one carried barbell.
+Efficient collection sweep
+1
+Lower beach
+
+Check the gym, rowboat, docks, shoreline corners, and the path up to the statue.
+
+2
+Central plaza
+
+Circle the statue, musician street, parked cars, and lower roofs.
+
+3
+Upper town
+
+Search the cemetery, crashed truck, pipeworks, flower shop, and lighthouse paths.
+
+4
+Offshore platforms
+
+Equip Flying and clear the small green platforms and remote island last.
+
+Avoid the carry softlock
+
+The developer specifically warns that picking up two items at once can ruin the run. Telescope and barbell are hand-carried objects; deliver the one you have or press F to drop it before interacting with another carried item.
+
+Flowers and bottles are counter pickups and do not need to be carried back one by one.
+
+Frequently asked questions
+How many bottles are there?
+How many flowers are there?
+Where is the commonly missed puddle?
+
+CHECKED SOURCE
+
+Current playable build
+
+Current task names, totals, dependencies, and ending were verified against the playable build.
+
+CONTINUE
+
+Little Troubles in Spooky Town Controls
+Little Troubles in Spooky Town Bugs and Fixes
+Updates and Sources
+Find the Telescope Guide

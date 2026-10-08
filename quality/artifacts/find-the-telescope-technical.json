@@ -1,0 +1,76 @@
+{
+  "path": "/find-the-telescope/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:59.984Z",
+  "testedUrl": "http://127.0.0.1:64862/find-the-telescope/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/find-the-telescope/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-telescope-390.png",
+        "sha256": "ff92fa1bba98a9666598648995c623a199ed621b985d0414593be0a7f768e84d"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-telescope-768.png",
+        "sha256": "011a1218b5ab2d9aef7a2a30d8e85cabd2c2a2ac2329043c97343da68c11c41f"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-telescope-1024.png",
+        "sha256": "a308d2a704225540e2990595d4fb82a91d379e1e26a0e689abe1feea038f9c07"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-telescope-1440.png",
+        "sha256": "3ded65713823666e56d2ab169e52282b3b4ac71ab5de0e04826e503b9ab8c7c2"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

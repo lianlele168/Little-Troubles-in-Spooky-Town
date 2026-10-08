@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="page-shell footer-grid">
         <div>
           <div className="flex items-center gap-3"><span className="brand-mark"><Ghost className="h-5 w-5" /></span><strong className="font-display text-xl text-white">Little Troubles Guide</strong></div>
-          <p className="mt-4 max-w-lg text-sm leading-7 text-[#cfc4da]">An independent companion for Kenney&apos;s short adventure, organized around the 11 real tasks, their outfit dependencies, and the current playable build.</p>
+          <p className="mt-4 max-w-lg text-sm leading-7 text-[#cfc4da]">An independent companion for Kenney&apos;s adventure, focused on documented controls and developer support answers.</p>
         </div>
         <div>
           <h2>Explore</h2>
@@ -31,7 +31,7 @@ export default function Footer() {
           <p className="footer-disclaimer"><ShieldCheck className="h-4 w-4 shrink-0" />Not affiliated with Kenney or itch.io. Game art belongs to its owner.</p>
         </div>
       </div>
-      <div className="page-shell footer-bottom">&copy; {new Date().getFullYear()} Little Troubles Guide. Independent fan reference. · Content AI-assisted, human-reviewed · Data sources cited on page · Contact: lianlele168@gmail.com</div>
+      <div className="page-shell footer-bottom">&copy; {new Date().getFullYear()} Little Troubles Guide. Independent fan reference. · AI-assisted content · Data sources cited on page · Contact: lianlele168@gmail.com</div>
     </footer>
   );
 }

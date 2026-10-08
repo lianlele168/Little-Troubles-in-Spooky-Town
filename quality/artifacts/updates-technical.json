@@ -1,0 +1,79 @@
+{
+  "path": "/updates/",
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "checkedAt": "2026-10-08T16:13:10.130Z",
+  "testedUrl": "http://127.0.0.1:58548/updates/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/updates/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town",
+    "https://kenney.itch.io/little-troubles-in-spooky-town/devlog",
+    "https://www.youtube.com/watch?v=ROYqAg3yHtM"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-390.png",
+        "sha256": "8fb2cab67803ad505363a91fce0d03fe6d8f50bea06d141b2e8eec8da0c9b591"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-768.png",
+        "sha256": "e9daafbaa7a195dcc690ae13d83ab4ccc884f02771e034b06656006eb8bcf1e3"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-1024.png",
+        "sha256": "ecb9d6e4fa4b0a9ad7ee571f475f2b0854b27d1f130a4b28f4abb891dc39a77f"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-1440.png",
+        "sha256": "ae2db6e22ac4863e3f4f00efbcda047961694eb7c2f8b130b9607eab8e25b521"
+      }
+    }
+  ],
+  "interaction": "passed",
+  "contentReview": "supported",
+  "note": "Actual local preview. Per-route four-width measurements plus shared-template visual review and tested global navigation. External game execution was not claimed.",
+  "interactionEvidence": "quality/artifacts/interaction-results.json: shared menu/search and representative retired 404 routes. Static content needs no artificial loading state."
+}

@@ -1,0 +1,76 @@
+{
+  "path": "/find-a-different-song/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:56.906Z",
+  "testedUrl": "http://127.0.0.1:64862/find-a-different-song/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/find-a-different-song/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-a-different-song-390.png",
+        "sha256": "b2fd5728b54bfbc2d3409e96d65cfcbf942a8e7b47c762693ea90de3e814c7d3"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-a-different-song-768.png",
+        "sha256": "cafc5b4a773b4868135f5102a56027fa248b97794b565e11d7bda10a1594b148"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-a-different-song-1024.png",
+        "sha256": "004c6c69c8aa1f38756550b06a2b108b0156a713c7f6190eb4a2e22112536acb"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-a-different-song-1440.png",
+        "sha256": "6149d77784622ff7b625f30650341eb35bb367a95858ad2076a6aeaae3dfa94e"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

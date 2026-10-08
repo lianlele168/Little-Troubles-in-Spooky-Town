@@ -1,0 +1,76 @@
+{
+  "path": "/calculator/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:47.026Z",
+  "testedUrl": "http://127.0.0.1:64862/calculator/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/calculator/",
+  "robotsAllowed": true,
+  "indexAllowed": false,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-390.png",
+        "sha256": "58205208ecb0e23ed6e4f0319efd643e9f73661c1f50b1b7f39de82912550249"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-768.png",
+        "sha256": "39ef049ffc7b84732345af1eaefbc6559ee3316ed159b9e0cf6bdac1bde7840a"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-1024.png",
+        "sha256": "8a6817b91c732e738195b69036a1a015866e1ef672374515381a7a65c64563fd"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-1440.png",
+        "sha256": "d025b68c5b9ae9a86ff96de7d0fd8c51ddc070518612abac42803fdfbb8dd36c"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

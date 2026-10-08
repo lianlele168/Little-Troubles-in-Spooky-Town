@@ -1,0 +1,14 @@
+{
+  "project": "little-troubles-in-spooky-town-wiki",
+  "id": "itch",
+  "url": "https://kenney.itch.io/little-troubles-in-spooky-town",
+  "checkedAt": "2026-10-08T15:23:20.632Z",
+  "review": "pending",
+  "status": 200,
+  "finalUrl": "https://kenney.itch.io/little-troubles-in-spooky-town",
+  "contentType": "text/html",
+  "artifact": {
+    "path": "quality/artifacts/sources/itch.html",
+    "sha256": "c32bd1a5e29d29131a03b2b0997e7cb1521b97f18311f1fa20f1baa040f2b35c"
+  }
+}

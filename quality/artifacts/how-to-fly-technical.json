@@ -1,0 +1,77 @@
+{
+  "path": "/how-to-fly/",
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "checkedAt": "2026-10-08T16:13:05.525Z",
+  "testedUrl": "http://127.0.0.1:58548/how-to-fly/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/how-to-fly/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/how-to-fly-390.png",
+        "sha256": "4ca6356167b12fd1a886b418920661b10e0677e408a3a6eaa59ec168c18b104a"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/how-to-fly-768.png",
+        "sha256": "485676607ad82bb1fae35a884f3b212ccb11b42b76193d2627d5d73cea6f1790"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/how-to-fly-1024.png",
+        "sha256": "57a11ef38f3ef6a2b450350c24fe6537de480ffaecdb91a03702bb8b8813ba4a"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/how-to-fly-1440.png",
+        "sha256": "40d5bfea2a62d3fbe773ee0b21b04be65d39490bc565855142b24da77134f8b5"
+      }
+    }
+  ],
+  "interaction": "passed",
+  "contentReview": "supported",
+  "note": "Actual local preview. Per-route four-width measurements plus shared-template visual review and tested global navigation. External game execution was not claimed.",
+  "interactionEvidence": "quality/artifacts/interaction-results.json: shared menu/search and representative retired 404 routes. Static content needs no artificial loading state."
+}

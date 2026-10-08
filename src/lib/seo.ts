@@ -28,10 +28,9 @@ export function videoGameSchema() {
     image: absoluteUrl("/gameplay-town-wide.png"),
     description: "A short adventure about helping the ghosts of Spooky Town and proving that you can be whatever you want to be.",
     applicationCategory: "Game",
-    gamePlatform: ["Web browser", "Windows"],
+    gamePlatform: ["Web browser", "Windows", "Linux"],
     genre: ["Adventure", "Cozy", "Wholesome"],
     author: { "@type": "Person", name: site.developer },
-    datePublished: site.published,
     inLanguage: "en",
     offers: {
       "@type": "Offer",
@@ -76,9 +75,8 @@ export function articleSchema(title: string, description: string, slug: string, 
     description,
     mainEntityOfPage: absoluteUrl(slug),
     image: absoluteUrl(image),
-    datePublished: site.published,
 
-    author: { "@type": "Organization", name: site.name },
+    author: { "@type": "Person", name: "Hlele" },
     publisher: { "@type": "Organization", name: site.name },
   };
 }
@@ -104,15 +102,3 @@ export function howToSchema(
   };
 }
 
-export function trackerSchema() {
-  return {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    name: "Little Troubles Task Tracker",
-    url: absoluteUrl("/task-tracker/"),
-    applicationCategory: "GameApplication",
-    operatingSystem: "Any web browser",
-    description: "A local checklist for tracking all 11 Little Troubles in Spooky Town objectives.",
-    offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
-  };
-}

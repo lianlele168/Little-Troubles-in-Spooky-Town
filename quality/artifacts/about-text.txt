@@ -1,0 +1,35 @@
+Home
+/
+About Little Troubles Guide
+
+LITTLE TROUBLES IN SPOOKY TOWN
+
+About Little Troubles Guide
+
+An independent, AI-assisted reference maintained under the editorial identity Hlele.
+
+Official game
+What this site is for
+
+This guide helps players translate controls, use float, locate the barbell and troubleshoot supported versions. It is not affiliated with Kenney or itch.io.
+
+Editorial responsibility
+
+Hlele is the site’s editorial identity. Source checking for this revision was performed by a Codex agent; no personal gameplay experience or human review is claimed. Corrections can be sent to lianlele168@gmail.com.
+
+Attribution
+
+Little Troubles in Spooky Town and its artwork belong to Kenney. Links lead to the official release; this site does not redistribute the game.
+
+CHECKED SOURCE
+
+Developer documentation
+
+Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.
+
+CONTINUE
+
+Little Troubles Controls: Keyboard and Gamepad
+How to Use Float in Little Troubles
+Little Troubles Missing Barbell Location
+Little Troubles Browser and Input Troubleshooting

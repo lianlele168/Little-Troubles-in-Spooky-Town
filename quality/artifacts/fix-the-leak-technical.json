@@ -1,0 +1,76 @@
+{
+  "path": "/fix-the-leak/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:01.767Z",
+  "testedUrl": "http://127.0.0.1:64862/fix-the-leak/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/fix-the-leak/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/fix-the-leak-390.png",
+        "sha256": "028a5b48559f25055107fcf530eb12cd36c4d62211817915580eea0c95674952"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/fix-the-leak-768.png",
+        "sha256": "1a7bbcc9667a201147969cc1aba09e7af30ebfa679bf5eab4b6b02a69e2e7aa0"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/fix-the-leak-1024.png",
+        "sha256": "78c73ae407350dbbed70ce949f22097f10318769730e7de7d4b62136e1779509"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/fix-the-leak-1440.png",
+        "sha256": "2bb87242412685d14b3bdee5061ea1ffad910f7d4fc6e5b60ba8ded585e6a674"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

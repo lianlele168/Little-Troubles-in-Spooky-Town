@@ -1,0 +1,185 @@
+{
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "checkedAt": "2026-10-08T16:13:10.140Z",
+  "routeInventoryArtifact": {
+    "path": "quality/artifacts/routes.json",
+    "sha256": "08eff8d4b1ea3c2f8943aee29b618a7cc772c36234d2959900bac455167513d0"
+  },
+  "sitemapArtifact": {
+    "path": "quality/artifacts/sitemap.xml",
+    "sha256": "7f9cdfe1f49ede37e4309afeb9d1bce089ee1c514d889ba916e51d6ae7d9be91"
+  },
+  "pages": [
+    {
+      "path": "/",
+      "title": "Little Troubles in Spooky Town Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/home.html",
+        "sha256": "b45c6ae48be1a05fd948921123e2edd56f62dc532ee4bdaf7ebc64e80a245e80"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/home-technical.json",
+        "sha256": "b40fa477ed0834313b6b6f7f8a0eb55c6b4c86389c41d1c3998e611e9451c504"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/about/",
+      "title": "About Little Troubles Guide | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/about.html",
+        "sha256": "cbf9c2e1a61bfe4cf7c562bad70ee1047a1de0208ce74158cad69b54e330a33e"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/about-technical.json",
+        "sha256": "af2f35c9cfa6b43e7c6cb310cee8c7b9f8ec2d0c567459e0683de39f990c9af3"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/bugs-fixes/",
+      "title": "Little Troubles Browser and Input Troubleshooting | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/bugs-fixes.html",
+        "sha256": "ffe17f8d19f5c4eac8bef02c0e1d98ef6ead88df12a7ea2cd9fa732e207b4d72"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/bugs-fixes-technical.json",
+        "sha256": "b1a0509e9657abdc9708b81d227d5adb31100e21294d9b726d95f95a0170912b"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/controls/",
+      "title": "Little Troubles Controls: Keyboard and Gamepad | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/controls.html",
+        "sha256": "de75df7895e6db17dd35f7dfe207f99694ad2a57c9a3c625fbacf4454a57007a"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/controls-technical.json",
+        "sha256": "426d3d2f9c70cc9713dd84a17c8191ada0ca4d6f384f9efc5d62105a0e978912"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/find-the-missing-barbell/",
+      "title": "Little Troubles Missing Barbell Location | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/find-the-missing-barbell.html",
+        "sha256": "fcdc37f406db675869afd49f76ac9d8d64089f327d77984ca8880b90b0166e90"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/find-the-missing-barbell-technical.json",
+        "sha256": "e97584ff81a077950a53aae69be8a0ba815dc3be0cc5a315ce2e6c837875f7a7"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/how-to-fly/",
+      "title": "How to Use Float in Little Troubles | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/how-to-fly.html",
+        "sha256": "93164ebbdc52ce1fe47fc13d41c3f2eec52ba19c85bcdea68c25d1a76ff06e1b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/how-to-fly-technical.json",
+        "sha256": "e3e990bf31f1954c9f5bc03900cc682c9234ed0ff62d86bfbe0183f06babf24f"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/play/",
+      "title": "Play Little Troubles in Spooky Town | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/play.html",
+        "sha256": "c5d09e9fdca3c847906ea3dfda5ff31912ffdc19bd8d364f4223d0c438e8db14"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/play-technical.json",
+        "sha256": "97728ff33068a63a10ca9e457a5162d6be9765a42f38ac49e3e8819ef4e3f8d8"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "title": "Privacy Policy | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/privacy-policy.html",
+        "sha256": "90c26aae7c74408a2d1f8d283b116df4c996db92f8808b0bad15ef140b0c4e03"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/privacy-policy-technical.json",
+        "sha256": "41e8c7363c5a7b529239238d8d58c3c8ff491c1aec770baf2aadf0cbe420ea8e"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/terms/",
+      "title": "Terms of Use | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/terms.html",
+        "sha256": "2c8827cae0cdb042bcfeb3fd0c9000917a089544b3bc5b1f3fc4bc870656bb5b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/terms-technical.json",
+        "sha256": "475577da737db7abe57a8e0627bf01cd6358900516cc5d7579165de79416af6f"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    },
+    {
+      "path": "/updates/",
+      "title": "Little Troubles Sources and Corrections | Little Troubles Guide",
+      "renderedArtifact": {
+        "path": "quality/artifacts/updates.html",
+        "sha256": "866cd07d4baae583ac00360dab1f2763053d7b398f5ebc59945fd1ab1003dd6b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/updates-technical.json",
+        "sha256": "25289e6916a4fc2d0ad27337d4b29ff5c3c62898077cf09ec180ee0df677a20a"
+      },
+      "issues": {
+        "brokenLinks": [],
+        "consoleErrors": 0,
+        "overflow": []
+      }
+    }
+  ],
+  "status": "pending-content-and-visual-review"
+}

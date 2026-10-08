@@ -1,0 +1,54 @@
+{
+  "source": "official itch.io screenshot gallery and cover",
+  "ownership": "Developer retains copyright; no open license asserted. Used as existing attributed illustrations of the reviewed game.",
+  "checks": [
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4NC5wbmc=/794x1000/7a%2BCPR.png",
+      "sha256": "4e639a64bb8fe4cdee17482459b0e4cd17c02a5a7ef20c5668906b68d82bf24f",
+      "localMatch": "public\\gameplay-beach.png",
+      "fetchedAt": "2026-10-08T15:58:23.042802+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4NC5wbmc=/original/9UyDF5.png",
+      "sha256": "f87ef9f05499ea0b48e842d1917d30756972114c70320056bbc56b753d11243d",
+      "localMatch": null,
+      "fetchedAt": "2026-10-08T15:58:24.605125+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4NS5wbmc=/794x1000/lGQ%2Bql.png",
+      "sha256": "6b2523e279dd28900495d9372bd6fb7440d22d8159e62765728b7d5abb151863",
+      "localMatch": "public\\gameplay-town.png",
+      "fetchedAt": "2026-10-08T15:58:25.905752+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4NS5wbmc=/original/93b8W0.png",
+      "sha256": "17bfa6da1161511a7325c12ee5bcce66df304a70399f2a94025af8aa8267f440",
+      "localMatch": null,
+      "fetchedAt": "2026-10-08T15:58:27.476823+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4Ni5wbmc=/794x1000/psZEpx.png",
+      "sha256": "67fe0e38934ece0f6c0500679664d30a3c510f742d52f00f9ee31b908cba37f1",
+      "localMatch": "public\\gameplay-island.png",
+      "fetchedAt": "2026-10-08T15:58:28.813775+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4Ni5wbmc=/original/YMYFb%2B.png",
+      "sha256": "5a33f97aa01722abcc7bee5ec491cb7e8365f067dfafd441618d301c679cb5dc",
+      "localMatch": null,
+      "fetchedAt": "2026-10-08T15:58:30.367587+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4Ny5wbmc=/794x1000/6e%2F0mn.png",
+      "sha256": "e241a12c1a1564b12edaf16080235bd70479d9bdb21b0e6f17490bc26baff179",
+      "localMatch": "public\\gameplay-town-wide.png",
+      "fetchedAt": "2026-10-08T15:58:31.738478+00:00"
+    },
+    {
+      "url": "https://img.itch.zone/aW1hZ2UvNDg3NzE1OC8yOTI0NTI4Ny5wbmc=/original/PJLR%2FL.png",
+      "sha256": "a8fb2155a7359ff7bd2cf622b06d501fa944dc232e8b3ff2374e23d7529e4c84",
+      "localMatch": null,
+      "fetchedAt": "2026-10-08T15:58:33.607411+00:00"
+    }
+  ]
+}

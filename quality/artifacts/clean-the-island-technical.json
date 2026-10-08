@@ -1,0 +1,76 @@
+{
+  "path": "/clean-the-island/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:50.452Z",
+  "testedUrl": "http://127.0.0.1:64862/clean-the-island/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/clean-the-island/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/clean-the-island-390.png",
+        "sha256": "7d0b0117c7987e2bf99c8b5349c6f00ff3aae012056ccd29dd3ba4435d85f065"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/clean-the-island-768.png",
+        "sha256": "16f0cc1c6b79d59e9d1615323dbeab91637f2dcc217f4f9642ffbf75a19bd2ea"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/clean-the-island-1024.png",
+        "sha256": "b63a4f612f1ec670d8f26b3aa670a3b239b2103df2c0576acbf69f4f71312553"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/clean-the-island-1440.png",
+        "sha256": "2e3b8f809610247a5eedd36dad3312458e871c1a2e8a5b04f21115bf9df016fd"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

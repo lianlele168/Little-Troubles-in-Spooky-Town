@@ -1,0 +1,77 @@
+{
+  "path": "/find-the-missing-barbell/",
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "checkedAt": "2026-10-08T16:13:04.361Z",
+  "testedUrl": "http://127.0.0.1:58548/find-the-missing-barbell/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/find-the-missing-barbell/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-missing-barbell-390.png",
+        "sha256": "e9135007b1762a24108ede0cbcfa96d4d6bab571e03fcbbf518793a6cb5b097f"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-missing-barbell-768.png",
+        "sha256": "c30f4ff6b0883785d1030167a6e397f1c875571d54f55c45e6cb240dc282d272"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-missing-barbell-1024.png",
+        "sha256": "8b72910f66ddeaab1d232197fc6142d99c6f5a7f23906552b518ede40a272b1c"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/find-the-missing-barbell-1440.png",
+        "sha256": "d023d469181ce2fad3ac588bb8f0b353401d6be0883999a98d6a63a4b89cff46"
+      }
+    }
+  ],
+  "interaction": "passed",
+  "contentReview": "supported",
+  "note": "Actual local preview. Per-route four-width measurements plus shared-template visual review and tested global navigation. External game execution was not claimed.",
+  "interactionEvidence": "quality/artifacts/interaction-results.json: shared menu/search and representative retired 404 routes. Static content needs no artificial loading state."
+}

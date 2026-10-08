@@ -1,0 +1,76 @@
+{
+  "path": "/tasks/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:23:16.388Z",
+  "testedUrl": "http://127.0.0.1:64862/tasks/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/tasks/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tasks-390.png",
+        "sha256": "c691b9a74b08a417d75a496b50a13b41f4790d18c8f7b30f06f45766ddc51419"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tasks-768.png",
+        "sha256": "871b4eac0e12a6642a4a20a84dbbfbd9a6ae94dffab5e16827556bd67cb09e7a"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tasks-1024.png",
+        "sha256": "302c2c2caabfe695ee0006d161d779d7808316638fb8d40b767bbb325dcf36e5"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tasks-1440.png",
+        "sha256": "66ce6f7d5217a04219a91611ed6c1dcf2e7af9c5d1ea4085e58a6f16cd80b522"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

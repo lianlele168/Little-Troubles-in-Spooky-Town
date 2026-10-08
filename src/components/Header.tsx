@@ -7,11 +7,6 @@ import { ArrowUpRight, ChevronRight, Ghost, Menu, Search, Sparkles, X } from "lu
 import { guidePages } from "@/data/pages";
 import { navItems, site } from "@/data/site";
 
-const extraSearchItem = {
-  slug: "task-tracker",
-  title: "Little Troubles Task Tracker",
-  description: "Save progress across all 11 objectives in this browser.",
-};
 
 export default function Header() {
   const pathname = usePathname();
@@ -35,7 +30,7 @@ export default function Header() {
   }, []);
 
   const results = useMemo(() => {
-    const pages = [extraSearchItem, ...guidePages];
+    const pages = guidePages;
     const normalized = query.trim().toLowerCase();
     if (!normalized) return pages.slice(0, 7);
     return pages
@@ -95,7 +90,7 @@ export default function Header() {
           <div className="search-dialog">
             <div className="search-field-row">
               <Search className="h-5 w-5 shrink-0 text-lilac-700" />
-              <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search tasks, Flying, bottles..." className="search-field" autoFocus />
+              <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search controls, float, barbell..." className="search-field" autoFocus />
               <button type="button" onClick={() => setSearchOpen(false)} className="icon-button border-0" aria-label="Close search"><X className="h-5 w-5" /></button>
             </div>
             <div className="search-results">

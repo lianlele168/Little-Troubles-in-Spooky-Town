@@ -1,0 +1,77 @@
+{
+  "path": "/play/",
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "checkedAt": "2026-10-08T16:13:06.690Z",
+  "testedUrl": "http://127.0.0.1:58548/play/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/play/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/play-390.png",
+        "sha256": "055c0cb5e330c475f34b552cba54db34a9c4574ea52c13d709b17310c26c5359"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/play-768.png",
+        "sha256": "8721af83ae6b100e7603ff2c908d4b40849ae49536c54b7823ebbb1e4409b5be"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/play-1024.png",
+        "sha256": "ac6c56cf6a7fcfd3bbd37e8304cbf1f5876979508e3b6ded83d340c322761f9f"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/play-1440.png",
+        "sha256": "8f1ff4bdf0e12420608e4cd814cbdf0fedbf38567129de2661fd072eb7bc0d7e"
+      }
+    }
+  ],
+  "interaction": "passed",
+  "contentReview": "supported",
+  "note": "Actual local preview. Per-route four-width measurements plus shared-template visual review and tested global navigation. External game execution was not claimed.",
+  "interactionEvidence": "quality/artifacts/interaction-results.json: shared menu/search and representative retired 404 routes. Static content needs no artificial loading state."
+}

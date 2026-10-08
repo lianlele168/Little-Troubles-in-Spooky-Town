@@ -1,0 +1,97 @@
+Home
+/
+Little Troubles in Spooky Town Walkthrough
+
+COMPLETE 11-TASK ROUTE
+
+Little Troubles in Spooky Town Walkthrough
+
+This route follows the game's dependency chain: unlock movement and jobs first, then clear the three collection tasks and finish the family ending.
+
+Official game
+Task tracker
+Recommended completion order
+1
+1. Find the Telescope
+
+Pick up the loose telescope by the small boat and return it to the scholar ghost beside the statue plaza. Requirement: No special outfit. Reward: Talented trait.
+
+2
+2. Cheer the Sad Ghost Up
+
+Change your trait to Silly, then speak to the downcast ghost sitting among the gravestones. Requirement: Silly trait. Reward: Strong trait.
+
+3
+3. Find the Missing Barbell
+
+Use Strong to lift the barbell near the beach workout area and hand it to the trainer ghost. Requirement: Strong trait. Reward: Quick ability.
+
+4
+4. Find a Different Song
+
+Meet Ghost Malone as a Talented Musician, learn another tune from the trumpet ghost, then bring it back. Requirement: Talented + Musician. Reward: Progresses Free a Spirit.
+
+5
+5. Free a Spirit
+
+Return to the trumpet ghost after sharing their song so they can finally leave a role they never wanted. Requirement: Finish the song handoff. Reward: Flying ability.
+
+6
+6. Collect All Flowers
+
+Collect all 6 scattered flowers, including the one on a small floating platform, then return to the flower-shop ghost. Requirement: Flying for the offshore flower. Reward: Cleaner occupation.
+
+7
+7. Collect All Bottles
+
+Recover all 10 Ghoul-Aid bottles spilled around the island and report back to the delivery ghost by the crashed truck. Requirement: Flying recommended. Reward: Engineer occupation.
+
+8
+8. Fix the Leak
+
+Wear Strong and Engineer together, then interact with the valve beside the large purple pipe in the upper town. Requirement: Strong + Engineer. Reward: Magnetic ability.
+
+9
+9. Clean the Island
+
+Equip Cleaner and remove all 10 purple puddles across the beaches, roads and the tunnel-side parking area. Requirement: Cleaner occupation. Reward: Cool trait.
+
+10
+10. Help Sell a House
+
+Take the for-sale lead, fly to the isolated house island, and pitch the home while dressed as a Cool Salesperson. Requirement: Cool + Salesperson; Flying for travel. Reward: Final story progress.
+
+11
+11. Tell Your Parents
+
+Return to the parent ghosts near the starting house after the counter reaches 10/11 and finish the farewell conversation. Requirement: Complete the other 10 tasks. Reward: Ending photo.
+
+Why this order works
+
+The telescope, sad ghost, and barbell form a compact opening loop and provide Talented, Strong, and Quick. The two music objectives then unlock Flying, which removes the main traversal barrier.
+
+Flowers unlock Cleaner; bottles unlock Engineer. Those jobs feed directly into cleaning the island and fixing the leak. Cleaning unlocks Cool, the last trait needed to sell the house.
+
+Finish at 10 of 11
+
+When the first ten entries are crossed out, return to the two parent ghosts near the starting home. Complete their farewell conversation to mark Tell Your Parents and show the ending group photo.
+
+The task list can reveal every objective: open it with T, then press I. This is an in-game option, not a cheat code.
+
+Frequently asked questions
+How many tasks are in Little Troubles in Spooky Town?
+Can tasks be completed out of order?
+What is the last task?
+
+CHECKED SOURCE
+
+Current playable build
+
+Current task names, totals, dependencies, and ending were verified against the playable build.
+
+CONTINUE
+
+All 11 Little Troubles in Spooky Town Tasks
+Outfits and Abilities Guide
+How to Fly in Little Troubles in Spooky Town
+Item and Collectible Locations

@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
+  "site": {
+    "baseUrl": "https://littletroubles.robloxwikihub.com",
+    "officialUrl": "https://kenney.itch.io/little-troubles-in-spooky-town",
+    "platform": "html5",
+    "releaseStatus": "released",
+    "identitySourceId": "itch",
+    "identityReview": {
+      "status": "supported",
+      "reviewer": "Codex agent / HTML5 repairs",
+      "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+      "artifact": {
+        "path": "quality/content-review.md",
+        "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+      }
+    }
+  },
+  "sources": [
+    {
+      "id": "itch",
+      "kind": "official",
+      "url": "https://kenney.itch.io/little-troubles-in-spooky-town",
+      "checkedAt": "2026-10-08T15:57:16.746027+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/itch-current.html",
+        "sha256": "ef2d94a9e5fa7017460253cd183c98a5e89377363ec1b96c9c65955485472208"
+      }
+    },
+    {
+      "id": "capture",
+      "kind": "observation",
+      "url": "https://kenney.itch.io/little-troubles-in-spooky-town",
+      "checkedAt": "2026-10-08T16:14:30.763774+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/capture.json",
+        "sha256": "159ec7017a4903b2b3b9ef4c054a2da6687966e67f8eb4b965eea86a2794459f"
+      }
+    },
+    {
+      "id": "implementation",
+      "kind": "observation",
+      "url": "http://127.0.0.1:58548/",
+      "checkedAt": "2026-10-08T16:14:30.763774+00:00",
+      "artifact": {
+        "path": "quality/artifacts/implementation-notes.md",
+        "sha256": "e992ea3bb1f15c2dbee9aca7c706e2b0663703bb6bb657245011323f8307cde0"
+      }
+    },
+    {
+      "id": "interactions",
+      "kind": "observation",
+      "url": "http://127.0.0.1:58548/",
+      "checkedAt": "2026-10-08T16:14:30.763774+00:00",
+      "artifact": {
+        "path": "quality/artifacts/interaction-results.json",
+        "sha256": "91ef300f7077243112f71600ae71bba25660276bd97968e91ed5ff93b46d7b93"
+      }
+    },
+    {
+      "id": "images",
+      "kind": "observation",
+      "url": "https://kenney.itch.io/little-troubles-in-spooky-town",
+      "checkedAt": "2026-10-08T16:14:30.763774+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/image-provenance.json",
+        "sha256": "7a21bec914e26b2769cf4c69fe0e323d9b438360dc9b3f5fff9e12fa70fef2d2"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "identity",
+      "kind": "fact",
+      "statement": "Little Troubles in Spooky Town is Kenney’s released adventure on HTML5, Windows and Linux.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Official More information: Status, Platforms, Author and Genre; title and release controls.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "move",
+      "kind": "fact",
+      "statement": "Move uses WASD or left joystick.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry for movement.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "interact",
+      "kind": "fact",
+      "statement": "Interact uses E or controller A.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry for interaction.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "jump",
+      "kind": "fact",
+      "statement": "Jump uses Spacebar or controller B.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry for jumping; this establishes that controller B is not the keyboard B key.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "outfit",
+      "kind": "fact",
+      "statement": "Open outfit choices using I or controller Y.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry Change outfit. No outfit unlock, power or requirement is inferred.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "drop",
+      "kind": "fact",
+      "statement": "Drop item uses F or controller X.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry Drop item.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "tasks",
+      "kind": "fact",
+      "statement": "Open the in-game task list using T or D-pad up.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Controls entry Task list. Does not imply a task count.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "float",
+      "kind": "fact",
+      "statement": "After unlocking float, a second Spacebar jump is the developer’s input clarification.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Kenney reply to jengabites: float ability allows double jump by pressing spacebar. Limited to use of already-unlocked float; no invented unlock route.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "barbell",
+      "kind": "fact",
+      "statement": "The missing barbell is on top of the house near the plaza.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Kenney reply to Cammellias asking where the barbell is. The answer says rooftop near the plaza, contradicting former beach-gym directions.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "support",
+      "kind": "fact",
+      "statement": "Developer recommends downloads for browser visual/performance/input issues and in-game visual quality options for continued performance issues; macOS is unsupported.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Official Troubleshooting section. Browser-flag workaround is referred to its current source, not reproduced as a stable browser fact.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "downloads",
+      "kind": "fact",
+      "statement": "Official page offers Windows and Linux downloads through Download Now.",
+      "sourceIds": [
+        "itch"
+      ],
+      "support": "Download section names Windows/Linux files; no unverified game version is asserted on site.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "source-review",
+      "kind": "date",
+      "statement": "This documentation source was reviewed on 8 October 2026 UTC by a Codex agent, not a human playtester.",
+      "sourceIds": [
+        "capture",
+        "implementation"
+      ],
+      "support": "Source capture timestamp 2026-10-08T15:57... UTC and actual source review in this task. Identity metadata, controls, troubleshooting and developer replies checked.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "site-scope",
+      "kind": "fact",
+      "statement": "Site is an independent AI-assisted guide under editorial identity Hlele; unsupported task chains and calculator were withdrawn; current search is local with no game iframe, tracker or account.",
+      "sourceIds": [
+        "implementation",
+        "interactions"
+      ],
+      "support": "See implementation-notes and actual retired-route, menu/search observations. Source archive records previous task data. Hlele identity is the user-specified editorial identity, not a claim of human testing.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    },
+    {
+      "id": "art",
+      "kind": "fact",
+      "statement": "Title screen artwork comes from the official developer gallery; game and artwork belong to Kenney.",
+      "sourceIds": [
+        "images"
+      ],
+      "support": "image-provenance.json exact SHA256 match public/gameplay-town-wide.png to official screenshot URL /NDg3NzE1OC8yOTI0NTI4Ny5wbmc=/794x1000/6e%2F0mn.png. Viewed title screen; no open license claim.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      }
+    }
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "status": "ready",
+      "intent": "Choose the supported help topic",
+      "uniqueValue": "Four problem-oriented links, known platform scope and official launch destination.",
+      "indexable": true,
+      "claimIds": [
+        "identity",
+        "float",
+        "barbell",
+        "site-scope",
+        "art"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/home.html",
+        "sha256": "b45c6ae48be1a05fd948921123e2edd56f62dc532ee4bdaf7ebc64e80a245e80"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/home-technical.json",
+        "sha256": "eaedf8f03c1e4bdf2a782a91e15e2b0ddb27d6d5317f9a0e8b8389b765cb321d"
+      }
+    },
+    {
+      "path": "/about/",
+      "status": "ready",
+      "intent": "Understand editorial responsibility",
+      "uniqueValue": "Hlele editorial identity, agent review boundary, contact and developer independence.",
+      "indexable": true,
+      "claimIds": [
+        "identity",
+        "site-scope",
+        "art"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/about.html",
+        "sha256": "cbf9c2e1a61bfe4cf7c562bad70ee1047a1de0208ce74158cad69b54e330a33e"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/about-technical.json",
+        "sha256": "7ca123d5d0d718a4ad0ac7ffec67ccad509ebab1c27e4d427b8176b0ec490a1e"
+      }
+    },
+    {
+      "path": "/bugs-fixes/",
+      "status": "ready",
+      "intent": "Choose a supported troubleshooting step",
+      "uniqueValue": "Developer-supported download, quality-option and unsupported-macOS triage; no false guaranteed fix.",
+      "indexable": true,
+      "claimIds": [
+        "support",
+        "downloads",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/bugs-fixes.html",
+        "sha256": "ffe17f8d19f5c4eac8bef02c0e1d98ef6ead88df12a7ea2cd9fa732e207b4d72"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/bugs-fixes-technical.json",
+        "sha256": "d93ef0d70e148f5589117082ea06f8fedca6e3f0beb621bb7d4a8e3a75b17c6a"
+      }
+    },
+    {
+      "path": "/controls/",
+      "status": "ready",
+      "intent": "Translate controller prompts to keyboard actions",
+      "uniqueValue": "All six developer mappings in one readable list, with a concrete B-versus-Space interpretation.",
+      "indexable": true,
+      "claimIds": [
+        "move",
+        "interact",
+        "jump",
+        "outfit",
+        "drop",
+        "tasks",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/controls.html",
+        "sha256": "de75df7895e6db17dd35f7dfe207f99694ad2a57c9a3c625fbacf4454a57007a"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/controls-technical.json",
+        "sha256": "bd20e614079308673e651cba38d2bdd75a93ae4e070337f51e16415c5f9fc162"
+      }
+    },
+    {
+      "path": "/find-the-missing-barbell/",
+      "status": "ready",
+      "intent": "Find the missing barbell",
+      "uniqueValue": "Correct developer rooftop location plus explicit removal of conflicting beach-gym and reward claims.",
+      "indexable": true,
+      "claimIds": [
+        "barbell",
+        "outfit",
+        "tasks",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/find-the-missing-barbell.html",
+        "sha256": "fcdc37f406db675869afd49f76ac9d8d64089f327d77984ca8880b90b0166e90"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/find-the-missing-barbell-technical.json",
+        "sha256": "a9f71ab8f6651e79c2db7e1b73f77e753aa6d3e8c0795c4e8ed3968597276dcf"
+      }
+    },
+    {
+      "path": "/how-to-fly/",
+      "status": "ready",
+      "intent": "Use already-unlocked float on keyboard",
+      "uniqueValue": "Developer double-jump answer without an invented prerequisite quest route.",
+      "indexable": true,
+      "claimIds": [
+        "float",
+        "jump",
+        "outfit",
+        "tasks",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/how-to-fly.html",
+        "sha256": "93164ebbdc52ce1fe47fc13d41c3f2eec52ba19c85bcdea68c25d1a76ff06e1b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/how-to-fly-technical.json",
+        "sha256": "a668b2d43f35fc626c5fddc737ce8fa7853f19e80ff18160d7ef86770206bd47"
+      }
+    },
+    {
+      "path": "/play/",
+      "status": "ready",
+      "intent": "Reach the official current release",
+      "uniqueValue": "Stable developer release/download destination instead of an outdated embedded upload.",
+      "indexable": true,
+      "claimIds": [
+        "identity",
+        "downloads",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/play.html",
+        "sha256": "c5d09e9fdca3c847906ea3dfda5ff31912ffdc19bd8d364f4223d0c438e8db14"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/play-technical.json",
+        "sha256": "b0f6f60bb8756f53f3ac9616eb3a867e5e9670a88bd790a84be83e1f435262e2"
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "status": "ready",
+      "intent": "Understand current site behavior",
+      "uniqueValue": "Search/local behavior, no account or embeds, and external service distinction.",
+      "indexable": false,
+      "claimIds": [
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/privacy-policy.html",
+        "sha256": "90c26aae7c74408a2d1f8d283b116df4c996db92f8808b0bad15ef140b0c4e03"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/privacy-policy-technical.json",
+        "sha256": "2c3cec648ab71334ea22c8d2fa58d744c7fc49da9d348e3ace7bd3f0a2eb412d"
+      }
+    },
+    {
+      "path": "/terms/",
+      "status": "ready",
+      "intent": "Understand guide limits and attribution",
+      "uniqueValue": "Unofficial reference scope and ownership disclosure.",
+      "indexable": false,
+      "claimIds": [
+        "identity",
+        "site-scope",
+        "art"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/terms.html",
+        "sha256": "2c8827cae0cdb042bcfeb3fd0c9000917a089544b3bc5b1f3fc4bc870656bb5b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/terms-technical.json",
+        "sha256": "184ad815538deb0caacbb4a08a321610262b082201890d4a320cbf668834bae3"
+      }
+    },
+    {
+      "path": "/updates/",
+      "status": "ready",
+      "intent": "Inspect factual scope and corrections",
+      "uniqueValue": "Review date/method and precise withdrawn claim categories.",
+      "indexable": true,
+      "claimIds": [
+        "identity",
+        "source-review",
+        "site-scope"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent / HTML5 repairs",
+        "reviewedAt": "2026-10-08T16:14:30.763774+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "5bbe9afc0d73a1a87700b22444133fff18e313d250e6d6bd1cb910d803552d7b"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/updates.html",
+        "sha256": "866cd07d4baae583ac00360dab1f2763053d7b398f5ebc59945fd1ab1003dd6b"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/updates-technical.json",
+        "sha256": "0b1479343ef36ab1f7901f67cd99737746ff8cd300f4785e04ea8a63884eb444"
+      }
+    }
+  ],
+  "routeInventoryArtifact": {
+    "path": "quality/artifacts/routes.json",
+    "sha256": "08eff8d4b1ea3c2f8943aee29b618a7cc772c36234d2959900bac455167513d0"
+  },
+  "sitemapPaths": [
+    "/",
+    "/about/",
+    "/bugs-fixes/",
+    "/controls/",
+    "/find-the-missing-barbell/",
+    "/how-to-fly/",
+    "/play/",
+    "/updates/"
+  ],
+  "sitemapArtifact": {
+    "path": "quality/artifacts/sitemap.xml",
+    "sha256": "7f9cdfe1f49ede37e4309afeb9d1bce089ee1c514d889ba916e51d6ae7d9be91"
+  },
+  "buildStatus": "passed",
+  "buildArtifact": {
+    "path": "quality/artifacts/build.log",
+    "sha256": "99296dd446bbf54c6c1acd96019909465f141831c68bd99e6fa10b92093d2581"
+  },
+  "skillRunArtifact": {
+    "path": "quality/skill-run.md",
+    "sha256": "90dc9a2308360ea41d9c55154700faca4d7c6ec238a1816e0b929b547390c7f6"
+  },
+  "unresolved": []
+}

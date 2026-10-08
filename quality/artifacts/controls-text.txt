@@ -1,0 +1,38 @@
+Home
+/
+Little Troubles Controls: Keyboard and Gamepad
+
+LITTLE TROUBLES IN SPOOKY TOWN
+
+Little Troubles Controls: Keyboard and Gamepad
+
+Translate the controller prompts into keyboard inputs using Kenney’s published control list.
+
+Official game
+Choose the action you need
+Move: WASD / left joystick
+Interact: E / A button
+Jump: Spacebar / B button
+Change outfit: I / Y button
+Drop carried item: F / X button
+Open task list: T / D-pad up
+If you are stuck at a controller prompt
+
+Read the action name rather than pressing the letter shown on the controller icon. For example, the B button means Jump; on a keyboard, use Spacebar. This mapping comes from the developer’s control list.
+
+Keep help beside the game
+
+Open the official game in another tab so this reference stays visible. If input or performance problems persist, see the Bugs & Fixes guide for the developer’s download and visual-quality advice.
+
+CHECKED SOURCE
+
+Developer documentation
+
+Controls and support answers are linked to Kenney’s published instructions. This revision does not claim a complete playthrough.
+
+CONTINUE
+
+How to Use Float in Little Troubles
+Little Troubles Missing Barbell Location
+Little Troubles Browser and Input Troubleshooting
+Play Little Troubles in Spooky Town

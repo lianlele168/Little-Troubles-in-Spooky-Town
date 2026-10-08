@@ -1,0 +1,76 @@
+{
+  "path": "/collect-all-bottles/",
+  "codeFingerprint": "4264a2708817606bed846edd41b77b5ff4fe2f9bfba92435a70b84293ee3aca7",
+  "checkedAt": "2026-10-08T15:22:52.081Z",
+  "testedUrl": "http://127.0.0.1:64862/collect-all-bottles/",
+  "httpStatus": 200,
+  "canonical": "https://littletroubles.robloxwikihub.com/collect-all-bottles/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://kenney.itch.io/little-troubles-in-spooky-town"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-bottles-390.png",
+        "sha256": "5b88bb24650dcc413bbf6d6052c2f7798e53dfeee55a33f268880ba7f5ff2baa"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-bottles-768.png",
+        "sha256": "6dd102dfb3961c75114aed8f9913de7c17f16b49dc6e6a86e18ed7e05a3b8fbc"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-bottles-1024.png",
+        "sha256": "f24521c17597e9e23fb8c7aa09530abfc8450454d2eedb31e80414e710eede11"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/collect-all-bottles-1440.png",
+        "sha256": "7e998e8b53e4aff4ca4e62fed1750011cf4db2bba403cee82c7ce09c16630935"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}
