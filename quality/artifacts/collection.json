@@ -1,6 +1,6 @@
 {
-  "codeFingerprint": "c546d739f4f3a2548aaee60888d876b183031051ca36d794b9db2b78a60afe8e",
-  "checkedAt": "2026-10-08T16:13:10.140Z",
+  "codeFingerprint": "00753cdc58b6ee244bc8d64ace9275e83b9b503175c529f6dd26ea94dfa4e7c7",
+  "checkedAt": "2026-10-08T16:29:53.254Z",
   "routeInventoryArtifact": {
     "path": "quality/artifacts/routes.json",
     "sha256": "08eff8d4b1ea3c2f8943aee29b618a7cc772c36234d2959900bac455167513d0"
@@ -15,11 +15,11 @@
       "title": "Little Troubles in Spooky Town Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/home.html",
-        "sha256": "b45c6ae48be1a05fd948921123e2edd56f62dc532ee4bdaf7ebc64e80a245e80"
+        "sha256": "30c6fd645758c8f2ed923f924f50e787a0daa5ffd3e27ccd9d12e94d36de9935"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/home-technical.json",
-        "sha256": "b40fa477ed0834313b6b6f7f8a0eb55c6b4c86389c41d1c3998e611e9451c504"
+        "sha256": "24e24ef893a6d400b08eb61f55a31a9e3d3e097af7ea7877467b11188f174938"
       },
       "issues": {
         "brokenLinks": [],
@@ -32,11 +32,11 @@
       "title": "About Little Troubles Guide | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/about.html",
-        "sha256": "cbf9c2e1a61bfe4cf7c562bad70ee1047a1de0208ce74158cad69b54e330a33e"
+        "sha256": "395b14bcf912a6d484a2a6a1585ce53984bc168fe8ac6378e3235f691fc6f528"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/about-technical.json",
-        "sha256": "af2f35c9cfa6b43e7c6cb310cee8c7b9f8ec2d0c567459e0683de39f990c9af3"
+        "sha256": "80fbc63c10c8921b170ca549a5cfd099c3da4ad6ee530fed922ded67620f95bb"
       },
       "issues": {
         "brokenLinks": [],
@@ -49,11 +49,11 @@
       "title": "Little Troubles Browser and Input Troubleshooting | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/bugs-fixes.html",
-        "sha256": "ffe17f8d19f5c4eac8bef02c0e1d98ef6ead88df12a7ea2cd9fa732e207b4d72"
+        "sha256": "373fe6b49a01133fa137bc38d00e876e68d7d78ec1d469f6c2262ea6d745cd9a"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/bugs-fixes-technical.json",
-        "sha256": "b1a0509e9657abdc9708b81d227d5adb31100e21294d9b726d95f95a0170912b"
+        "sha256": "56d617fe7dc44c18c0fd17ad5ffabaa9e5cfcc05b4c6808a7640bee9aef91f11"
       },
       "issues": {
         "brokenLinks": [],
@@ -66,11 +66,11 @@
       "title": "Little Troubles Controls: Keyboard and Gamepad | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/controls.html",
-        "sha256": "de75df7895e6db17dd35f7dfe207f99694ad2a57c9a3c625fbacf4454a57007a"
+        "sha256": "6cedf19aa92419cdaf7dc7741f6c4d538ad41ee4dedb9d0825b8f98bcb8f45d8"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/controls-technical.json",
-        "sha256": "426d3d2f9c70cc9713dd84a17c8191ada0ca4d6f384f9efc5d62105a0e978912"
+        "sha256": "f67cf00bd6ab5ee815872bf13898d85fb9e2ebcbf146ba06e7289a4923a46d2d"
       },
       "issues": {
         "brokenLinks": [],
@@ -83,11 +83,11 @@
       "title": "Little Troubles Missing Barbell Location | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/find-the-missing-barbell.html",
-        "sha256": "fcdc37f406db675869afd49f76ac9d8d64089f327d77984ca8880b90b0166e90"
+        "sha256": "df59a20cf54905eed6d01fddec4912ee06917dbeb37d567859e48551a4b054e8"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/find-the-missing-barbell-technical.json",
-        "sha256": "e97584ff81a077950a53aae69be8a0ba815dc3be0cc5a315ce2e6c837875f7a7"
+        "sha256": "5950cd7979dddf9014c3d82c91ca046f0f582f1ad552dd6f33ba0af52e2582cd"
       },
       "issues": {
         "brokenLinks": [],
@@ -100,11 +100,11 @@
       "title": "How to Use Float in Little Troubles | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/how-to-fly.html",
-        "sha256": "93164ebbdc52ce1fe47fc13d41c3f2eec52ba19c85bcdea68c25d1a76ff06e1b"
+        "sha256": "a635b356096bd381c66eee0faac9133f95587195c6dc4629cc3b3055b597bb8c"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/how-to-fly-technical.json",
-        "sha256": "e3e990bf31f1954c9f5bc03900cc682c9234ed0ff62d86bfbe0183f06babf24f"
+        "sha256": "b61c4a3ef1d008cc40b056bdfd6a5b8d10c22be5c8b00166cb1504746555ed50"
       },
       "issues": {
         "brokenLinks": [],
@@ -117,11 +117,11 @@
       "title": "Play Little Troubles in Spooky Town | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/play.html",
-        "sha256": "c5d09e9fdca3c847906ea3dfda5ff31912ffdc19bd8d364f4223d0c438e8db14"
+        "sha256": "0479c239f33d8c4ad6ef43cb0a4d03c689f92428e180241366b2af177c05b3e7"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/play-technical.json",
-        "sha256": "97728ff33068a63a10ca9e457a5162d6be9765a42f38ac49e3e8819ef4e3f8d8"
+        "sha256": "43a8cd74f5314c9b34551f0c032764e0770b4ce7a129f70b196135b2dc615c03"
       },
       "issues": {
         "brokenLinks": [],
@@ -134,11 +134,11 @@
       "title": "Privacy Policy | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/privacy-policy.html",
-        "sha256": "90c26aae7c74408a2d1f8d283b116df4c996db92f8808b0bad15ef140b0c4e03"
+        "sha256": "f3a90987c0c4a9b22858e3e17b78c6f3c21fb52ab4a8d5073321bc7b8c90a766"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/privacy-policy-technical.json",
-        "sha256": "41e8c7363c5a7b529239238d8d58c3c8ff491c1aec770baf2aadf0cbe420ea8e"
+        "sha256": "1fae6a27049fc0ef5e989d7c4dd3b606c225f65b5baff7da74c40e00c9dde904"
       },
       "issues": {
         "brokenLinks": [],
@@ -151,11 +151,11 @@
       "title": "Terms of Use | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/terms.html",
-        "sha256": "2c8827cae0cdb042bcfeb3fd0c9000917a089544b3bc5b1f3fc4bc870656bb5b"
+        "sha256": "34c0abd44ffe842e7dd9386c42511861d9835fecf7c366d226854984556e4cc9"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/terms-technical.json",
-        "sha256": "475577da737db7abe57a8e0627bf01cd6358900516cc5d7579165de79416af6f"
+        "sha256": "5d0726e248de1b417607e0a660f44236a5ecabcf1fc06af1c4297b3c2e2d7b4a"
       },
       "issues": {
         "brokenLinks": [],
@@ -168,11 +168,11 @@
       "title": "Little Troubles Sources and Corrections | Little Troubles Guide",
       "renderedArtifact": {
         "path": "quality/artifacts/updates.html",
-        "sha256": "866cd07d4baae583ac00360dab1f2763053d7b398f5ebc59945fd1ab1003dd6b"
+        "sha256": "294beb66cfe729a346a9fe5ef9c6631c733b3eaa98e393d6c56204649bf299cf"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/updates-technical.json",
-        "sha256": "25289e6916a4fc2d0ad27337d4b29ff5c3c62898077cf09ec180ee0df677a20a"
+        "sha256": "b784c0092c1dec1876e7cc23fdd1c5672b05fce42d79dc5d76d712c3267983a5"
       },
       "issues": {
         "brokenLinks": [],
@@ -181,5 +181,5 @@
       }
     }
   ],
-  "status": "pending-content-and-visual-review"
+  "status": "reviewed-after-dependency-repair"
 }

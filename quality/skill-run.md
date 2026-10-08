@@ -9,3 +9,8 @@ Actual reviewer: Codex agent / HTML5 repairs. No human review asserted.
 | Validation | workspace quality/README.md; collect-review-artifacts.mjs; quality/interaction-check.mjs | Actual build, ten routes/four widths, menu/search/404, snapshot and image provenance records |
 
 Not used: Roblox scraper (wrong platform); calculators (no applicable game formula); codes/rating/programmatic page generation (no evidence or need); external skill scripts (not a substitute for direct source review). No cron, credential, deployment or outreach edits.
+
+
+## Dependency install consistency repair — 2026-10-08T16:36:00.857962+00:00
+
+Scoped follow-up under the existing evidence workflow (D:/AI建站/.agents/skills/autonomous-game-site/SKILL.md). No new game research skill or content generation was invoked. Linux Node 22.23.3/npm 10.9.9 reproduced the missing peer entries, regenerated the lock in a fresh directory, completed real npm ci with install scripts, loaded Linux native SWC/resolver bindings, and cold-built the export. All current routes were freshly captured at 390/768/1024/1440 and interactions rerun. quality/dependency-repair/review.json records the exact scope and old/new comparison; prior source-fact review dates remain unchanged.
