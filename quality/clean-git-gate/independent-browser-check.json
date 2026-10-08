@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 1,
+  "project": "little-troubles-in-spooky-town-wiki",
+  "scope": "local static export selector validation; not production",
+  "origin": "http://127.0.0.1:55917",
+  "productionOrigin": "https://littletroubles.robloxwikihub.com",
+  "commit": null,
+  "deploymentReference": null,
+  "deploymentUrl": null,
+  "provenance": "Commit and deployment identifiers come from release input; provider/alias binding must be independently verified by publication controller.",
+  "checkedAt": "2026-10-08T17:02:30.597Z",
+  "checks": [
+    "Local export keyboard controls and search reach the corrected rooftop location",
+    "Retired or unknown path is genuine HTTP404; 390/768/1024/1440 browser views have no horizontal overflow",
+    "Every reviewed public route loaded in real Chrome; observed scripts/styles/images/fonts captured with HTTP, MIME and response-byte hashes"
+  ],
+  "visitedPages": [
+    {
+      "path": "/controls/",
+      "url": "http://127.0.0.1:55917/controls/",
+      "httpStatus": 200,
+      "sha256": "9cc4a1f10c0440a290895ad604f0ca31ccd19dd6647f3d50952450340bd103d4"
+    },
+    {
+      "path": "/",
+      "url": "http://127.0.0.1:55917/",
+      "httpStatus": 200,
+      "sha256": "c7bb2389b3b102503d233a897e139e731a468e991410487e78556ee31be005cd"
+    },
+    {
+      "path": "/about/",
+      "url": "http://127.0.0.1:55917/about/",
+      "httpStatus": 200,
+      "sha256": "fc2139cbca9e03f178c1de5c9242202fa7293ca66bdc4ec59a95a385592ea9fc"
+    },
+    {
+      "path": "/bugs-fixes/",
+      "url": "http://127.0.0.1:55917/bugs-fixes/",
+      "httpStatus": 200,
+      "sha256": "b31592bfd78ae9cd3e156b0efe5a64c447fdc38fe2df31a33e0cff43ff0a632b"
+    },
+    {
+      "path": "/find-the-missing-barbell/",
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "httpStatus": 200,
+      "sha256": "ac2dcf130d7fd61f59eea623ca62042fcc0f6ac8c4d46ed5bd35b4ec1c784320"
+    },
+    {
+      "path": "/how-to-fly/",
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "httpStatus": 200,
+      "sha256": "cdf771f65a915f6ac8de20cf36cf3c53153ef456b90b7b004c5f753270a78949"
+    },
+    {
+      "path": "/play/",
+      "url": "http://127.0.0.1:55917/play/",
+      "httpStatus": 200,
+      "sha256": "8ba4d2cd44e0e6b204d0915e155943d9d50bfbfb6f5421fe1f2972d2e336e257"
+    },
+    {
+      "path": "/privacy-policy/",
+      "url": "http://127.0.0.1:55917/privacy-policy/",
+      "httpStatus": 200,
+      "sha256": "cee662b2e6e5fe8e94dcd632bc01b02cc7a4ef2714925d46c6038c1229f505b9"
+    },
+    {
+      "path": "/terms/",
+      "url": "http://127.0.0.1:55917/terms/",
+      "httpStatus": 200,
+      "sha256": "2e868b8e694cd8528fd4f3d7a1cac014ae329c250fd53b6dcea5b243f7886019"
+    },
+    {
+      "path": "/updates/",
+      "url": "http://127.0.0.1:55917/updates/",
+      "httpStatus": 200,
+      "sha256": "7624563752ee48ab0621d375e13d118622f0827b0365cc21c493aa6e9e6d4b0d"
+    }
+  ],
+  "resourceChecks": [
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/controls/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/gameplay-town-wide.png",
+      "resourceType": "image",
+      "status": 200,
+      "contentType": "image/png",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "e241a12c1a1564b12edaf16080235bd70479d9bdb21b0e6f17490bc26baff179",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/about/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/bugs-fixes/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/how-to-fly/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/play/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/privacy-policy/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/terms/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0fs_6p4ewvzc3.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "5174d6d802ca1a9f05aa7703d582f50a639a9fd23e5d6181ba906b53438b647b",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "1d36f2e3f57740f75eb021aaec1208d7e938130e36c106a9f28678e4a98559b0",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "39184f4d011106f5bfbe3813d3a8c3673663f04a45a9c9f55b1ed15f4d5b1cc9",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/media/5d52bd6c4cb3f315-s.p.0ez3bnoxb63ra.woff2",
+      "resourceType": "font",
+      "status": 200,
+      "contentType": "font/woff2",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "27d49d7c8362279bf81267c615481f4be9548d7568d58889aeb1a6395dd6c070",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/19mx3mg6lkumu.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "170f3982866674a829571beec30cc23c69fcd36196739ff34b9d586b3ad73cd7",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/3asgzusumqy02.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "2c7963dbd6163ab9129e0f0bfde6925939d517c2bbb38bc1f5c9a33753953167",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/turbopack-1y1vwk1rjmads.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "37db7102c1f4db5413715358e25a564c2291d92969ad802ba8f5c89898a42f5e",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/0jz8q6o7woesv.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "71d64397083022b452fd66175f43184b6bdf5158bd81fe82e35f7b6bcf7a6266",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/344n2zhqbh4pn.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "402430c6c1775a4891306a3de15db1afdf7b84a35170845737b21d7e469dbdd3",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:55917/_next/static/chunks/11pxbv08d7b0-.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:55917/updates/",
+      "sha256": "9d2c0632a9ee5e6f5c874cb9789b8d92d03e9e3719f3dcbbf227089e04391872",
+      "passed": true
+    }
+  ],
+  "networkErrors": [],
+  "completedHeadRequests": [
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/bugs-fixes/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/bugs-fixes/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/bugs-fixes/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/controls/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/how-to-fly/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/find-the-missing-barbell/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    },
+    {
+      "url": "http://127.0.0.1:55917/bugs-fixes/",
+      "method": "HEAD",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED",
+      "rsc": null,
+      "accept": null,
+      "prefetch": null,
+      "segmentPrefetch": null,
+      "purpose": null,
+      "receivedStatus": 200,
+      "reason": "HTTP 200 response already received for bodyless HEAD; browser completion cancellation, not an unsuccessful resource request."
+    }
+  ],
+  "consoleErrors": [],
+  "errors": [],
+  "passed": true,
+  "completedAt": "2026-10-08T17:02:37.099Z"
+}

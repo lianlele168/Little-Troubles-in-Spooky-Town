@@ -1,8 +1,8 @@
 {
   "path": "/bugs-fixes/",
-  "codeFingerprint": "00753cdc58b6ee244bc8d64ace9275e83b9b503175c529f6dd26ea94dfa4e7c7",
-  "checkedAt": "2026-10-08T16:29:45.150Z",
-  "testedUrl": "http://127.0.0.1:62938/bugs-fixes/",
+  "codeFingerprint": "ff085b72a157c811e9a67b4fa3ce524af3878b41261491331235941076e6c514",
+  "checkedAt": "2026-10-08T17:00:42.254Z",
+  "testedUrl": "http://127.0.0.1:63895/bugs-fixes/",
   "httpStatus": 200,
   "canonical": "https://littletroubles.robloxwikihub.com/bugs-fixes/",
   "robotsAllowed": true,
@@ -53,7 +53,7 @@
       },
       "screenshot": {
         "path": "quality/artifacts/bugs-fixes-1024.png",
-        "sha256": "ef912fbbcf1a4f98da3566421c63df3e5b088aa210b46fac80220c1f3289e277"
+        "sha256": "775fd36df06229260fb680e9433f433a36f7a5f89be7d943efa5558814f0165b"
       }
     },
     {
@@ -71,9 +71,9 @@
     }
   ],
   "interaction": "passed",
-  "contentReview": "Prior factual review retained: source files and all main HTML unchanged; no fresh external fact verification claimed.",
-  "note": "Fresh Linux Node22/npm10 build, fresh Chrome capture and repeated interactions. Details in quality/dependency-repair/review.json.",
+  "contentReview": "Prior factual review retained: page source and main HTML unchanged; gate-only implementation repair.",
+  "note": "Fresh clean Git archive + documented pending gate patch built on Linux22/npm10; current Chrome capture and interactions repeated. See quality/clean-git-gate/review.json.",
   "interactionEvidence": "quality/artifacts/interaction-results.json: shared menu/search and representative retired 404 routes. Static content needs no artificial loading state.",
-  "visualReviewer": "Codex agent / HTML5 repairs — pixel comparison and changed-capture inspection",
-  "visualReviewedAt": "2026-10-08T16:36:00.857962+00:00"
+  "visualReviewer": "Codex agent / HTML5 repairs — pixel comparison and changed header inspection",
+  "visualReviewedAt": "2026-10-08T17:03:44.515711+00:00"
 }

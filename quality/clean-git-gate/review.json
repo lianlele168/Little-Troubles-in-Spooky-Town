@@ -1,0 +1,455 @@
+{
+  "checkedAt": "2026-10-08T17:03:44.515711+00:00",
+  "reviewer": "Codex agent / HTML5 repairs",
+  "scope": "Gate algorithm only: exclude generated TypeScript caches and root next-env.d.ts from source fingerprint; game facts and review dates retained.",
+  "archiveHead": "d26ad05b4201a5fff53ce09ffc14adb6d5c263e8",
+  "archiveSha256": "8595d8470b02ba2e5e66eedfe53e23b16af8f561c175ac25fb59c31ab8d17f1c",
+  "pendingOverlay": {
+    "path": "scripts/quality-gate.mjs",
+    "sha256": "db632aeda7e3dc7a4e7292b31e273f3884ad2c3d9a56fab41e8ccec8c9a12b97",
+    "reason": "Only pending source file overlaid onto clean Git archive; no ignored cache copied."
+  },
+  "fingerprintAgreement": {
+    "cleanBeforeBuild": {
+      "sha256": "ff085b72a157c811e9a67b4fa3ce524af3878b41261491331235941076e6c514",
+      "files": 30
+    },
+    "cleanAfterBuild": {
+      "sha256": "ff085b72a157c811e9a67b4fa3ce524af3878b41261491331235941076e6c514",
+      "files": 30
+    },
+    "workingDirectory": {
+      "sha256": "ff085b72a157c811e9a67b4fa3ce524af3878b41261491331235941076e6c514",
+      "files": 30
+    }
+  },
+  "actualCommands": [
+    "Linux Node22.23.3/npm10.9.9 npm ci --no-audit --no-fund",
+    "npm run build:site",
+    "Chrome all routes at 390/768/1024/1440",
+    "Repeated applicable interaction test script"
+  ],
+  "interactionCount": 10,
+  "calibrationCount": 0,
+  "interactionCheckedAt": "2026-10-08T17:02:36.413Z",
+  "pages": [
+    {
+      "path": "/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "c4ff4b0f04f5f48e44053bf7294f8ce3c020100660fa6b84117e221ba1571252",
+          "afterSha256": "c4ff4b0f04f5f48e44053bf7294f8ce3c020100660fa6b84117e221ba1571252",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "1b223734a65109e58f99fc2bfcc296b350d7e8282138f8ba5e009ba4538b7031",
+          "afterSha256": "1b223734a65109e58f99fc2bfcc296b350d7e8282138f8ba5e009ba4538b7031",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "ff4e832a123405576a5f99c4b0cb26932bddaeb560422788b1214d932d6e830a",
+          "afterSha256": "758773dc7b1e4de30b42e7016b822d49be7323e877d563d2f6c7e8877b9ffbe2",
+          "changedPixels": 1,
+          "maxChannelDifference": 1,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "bd2095944b1e485fd097f2a55342f0b848857e07e6ee42f8ef317eef66ebd695",
+          "afterSha256": "bd2095944b1e485fd097f2a55342f0b848857e07e6ee42f8ef317eef66ebd695",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/about/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "669d3ada0f292ed70fa4adb389a4bfd4022ae47ca291bb185f06724d4ea9d93d",
+          "afterSha256": "669d3ada0f292ed70fa4adb389a4bfd4022ae47ca291bb185f06724d4ea9d93d",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "6b3d62b6ae232bbb89ac0dde4c8bcc854da4c2f676fcb5434de8da6ae1719f33",
+          "afterSha256": "6b3d62b6ae232bbb89ac0dde4c8bcc854da4c2f676fcb5434de8da6ae1719f33",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "2753b50a626b318b0ca1c3bb7cce490a0cb84584262972390453c4751c0ddd7c",
+          "afterSha256": "2753b50a626b318b0ca1c3bb7cce490a0cb84584262972390453c4751c0ddd7c",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "d5f47e870df51e3d058c680241cf83b2bbd246503aca5e223f92dbec62a5bd17",
+          "afterSha256": "d5f47e870df51e3d058c680241cf83b2bbd246503aca5e223f92dbec62a5bd17",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/bugs-fixes/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "d217d30c3ae7cc9e758c3944dd3c95d7fab39c281eabac1cddc6b4d0c7d912c8",
+          "afterSha256": "d217d30c3ae7cc9e758c3944dd3c95d7fab39c281eabac1cddc6b4d0c7d912c8",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "09b61a846967839401e4878951bc6ca04ef0f471af2bf94c82d967bc536ec80d",
+          "afterSha256": "09b61a846967839401e4878951bc6ca04ef0f471af2bf94c82d967bc536ec80d",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "ef912fbbcf1a4f98da3566421c63df3e5b088aa210b46fac80220c1f3289e277",
+          "afterSha256": "775fd36df06229260fb680e9433f433a36f7a5f89be7d943efa5558814f0165b",
+          "changedPixels": 1,
+          "maxChannelDifference": 1,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "d2b4045fa5caa1cacd1a685baf950e55de33bf26daac902ce64ce1895af0a118",
+          "afterSha256": "d2b4045fa5caa1cacd1a685baf950e55de33bf26daac902ce64ce1895af0a118",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/controls/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "aafe31ea2d1f11a243373c3ad9d8b9966534786385e226c8f592429feaec49f2",
+          "afterSha256": "aafe31ea2d1f11a243373c3ad9d8b9966534786385e226c8f592429feaec49f2",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "bd88f413cde7bb6d001c96c3992850d235aa179c1e173ad335320096b8283691",
+          "afterSha256": "bd88f413cde7bb6d001c96c3992850d235aa179c1e173ad335320096b8283691",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "c60d25962068bfe43cf2f6fdccaf335028a7e82e727b23a686186a218f489f38",
+          "afterSha256": "c60d25962068bfe43cf2f6fdccaf335028a7e82e727b23a686186a218f489f38",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "56ede539d6e9404dbca24df6768afb4defd5af9fd6d26fe59ce1ffa72c78d870",
+          "afterSha256": "56ede539d6e9404dbca24df6768afb4defd5af9fd6d26fe59ce1ffa72c78d870",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/find-the-missing-barbell/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "e9135007b1762a24108ede0cbcfa96d4d6bab571e03fcbbf518793a6cb5b097f",
+          "afterSha256": "e9135007b1762a24108ede0cbcfa96d4d6bab571e03fcbbf518793a6cb5b097f",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "c30f4ff6b0883785d1030167a6e397f1c875571d54f55c45e6cb240dc282d272",
+          "afterSha256": "c30f4ff6b0883785d1030167a6e397f1c875571d54f55c45e6cb240dc282d272",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "8b72910f66ddeaab1d232197fc6142d99c6f5a7f23906552b518ede40a272b1c",
+          "afterSha256": "ecd015416fcf1ddf6a7f1a26fbd9891152f51e63992e09a6722d95bb49f008f5",
+          "changedPixels": 3,
+          "maxChannelDifference": 1,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "d023d469181ce2fad3ac588bb8f0b353401d6be0883999a98d6a63a4b89cff46",
+          "afterSha256": "d023d469181ce2fad3ac588bb8f0b353401d6be0883999a98d6a63a4b89cff46",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/how-to-fly/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "4ca6356167b12fd1a886b418920661b10e0677e408a3a6eaa59ec168c18b104a",
+          "afterSha256": "4ca6356167b12fd1a886b418920661b10e0677e408a3a6eaa59ec168c18b104a",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "485676607ad82bb1fae35a884f3b212ccb11b42b76193d2627d5d73cea6f1790",
+          "afterSha256": "485676607ad82bb1fae35a884f3b212ccb11b42b76193d2627d5d73cea6f1790",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "38767574a53b02a663ea47e8631ade294ab286b5ab04a24ef0ab23d9c72f2961",
+          "afterSha256": "38767574a53b02a663ea47e8631ade294ab286b5ab04a24ef0ab23d9c72f2961",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "40d5bfea2a62d3fbe773ee0b21b04be65d39490bc565855142b24da77134f8b5",
+          "afterSha256": "40d5bfea2a62d3fbe773ee0b21b04be65d39490bc565855142b24da77134f8b5",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/play/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "055c0cb5e330c475f34b552cba54db34a9c4574ea52c13d709b17310c26c5359",
+          "afterSha256": "055c0cb5e330c475f34b552cba54db34a9c4574ea52c13d709b17310c26c5359",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "8721af83ae6b100e7603ff2c908d4b40849ae49536c54b7823ebbb1e4409b5be",
+          "afterSha256": "8721af83ae6b100e7603ff2c908d4b40849ae49536c54b7823ebbb1e4409b5be",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "ac6c56cf6a7fcfd3bbd37e8304cbf1f5876979508e3b6ded83d340c322761f9f",
+          "afterSha256": "ac6c56cf6a7fcfd3bbd37e8304cbf1f5876979508e3b6ded83d340c322761f9f",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "8f1ff4bdf0e12420608e4cd814cbdf0fedbf38567129de2661fd072eb7bc0d7e",
+          "afterSha256": "8f1ff4bdf0e12420608e4cd814cbdf0fedbf38567129de2661fd072eb7bc0d7e",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "748e4c7d42efb04a689d56cbd2d757b5e6c019e83ed8fdd5e1f58c974aab8368",
+          "afterSha256": "748e4c7d42efb04a689d56cbd2d757b5e6c019e83ed8fdd5e1f58c974aab8368",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "d56fab85e040ab19731b31bafcac1dc3edd8468ca1699617aca9230c53a0e1b9",
+          "afterSha256": "d56fab85e040ab19731b31bafcac1dc3edd8468ca1699617aca9230c53a0e1b9",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "b9caa4f1a8d7b58821046edef2e413ea448454abda4ad68abf6c861b7a2aad39",
+          "afterSha256": "fdc79ca755ab8ca9829d1f991c652029874a4f77e7a7966ca3cbd6807169dbf8",
+          "changedPixels": 1,
+          "maxChannelDifference": 1,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "1224b40c4956c7a74b1ab6a6ff193b928d5a20e8ebaade7e1c6de9ddf750ffc9",
+          "afterSha256": "1224b40c4956c7a74b1ab6a6ff193b928d5a20e8ebaade7e1c6de9ddf750ffc9",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/terms/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "e32f38e219e9596b3831b639cc433905c4927780b13802dde2dc4dc6687e7693",
+          "afterSha256": "e32f38e219e9596b3831b639cc433905c4927780b13802dde2dc4dc6687e7693",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "2f5d4e900874d12d804538658c6017df73d571df6d7628f4beeadbedc88f8865",
+          "afterSha256": "2f5d4e900874d12d804538658c6017df73d571df6d7628f4beeadbedc88f8865",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "bafee36b5ecb3eef7d0fb3e328cf886095ea36c12cb90aa41c633f440c3f53bc",
+          "afterSha256": "347d7786717037210be2ffab98ac347bc4475a49bd2e0721e405108cbd9f6658",
+          "changedPixels": 1,
+          "maxChannelDifference": 1,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "f4d7b9a6572350b3880354df8c09d6018f34df8ee74002163ce3b504dc54ba25",
+          "afterSha256": "f4d7b9a6572350b3880354df8c09d6018f34df8ee74002163ce3b504dc54ba25",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    },
+    {
+      "path": "/updates/",
+      "mainHtmlUnchanged": true,
+      "screenshots": [
+        {
+          "width": 390,
+          "beforeSha256": "8fb2cab67803ad505363a91fce0d03fe6d8f50bea06d141b2e8eec8da0c9b591",
+          "afterSha256": "8fb2cab67803ad505363a91fce0d03fe6d8f50bea06d141b2e8eec8da0c9b591",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 768,
+          "beforeSha256": "e9daafbaa7a195dcc690ae13d83ab4ccc884f02771e034b06656006eb8bcf1e3",
+          "afterSha256": "e9daafbaa7a195dcc690ae13d83ab4ccc884f02771e034b06656006eb8bcf1e3",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1024,
+          "beforeSha256": "ecb9d6e4fa4b0a9ad7ee571f475f2b0854b27d1f130a4b28f4abb891dc39a77f",
+          "afterSha256": "ecb9d6e4fa4b0a9ad7ee571f475f2b0854b27d1f130a4b28f4abb891dc39a77f",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        },
+        {
+          "width": 1440,
+          "beforeSha256": "ae2db6e22ac4863e3f4f00efbcda047961694eb7c2f8b130b9607eab8e25b521",
+          "afterSha256": "ae2db6e22ac4863e3f4f00efbcda047961694eb7c2f8b130b9607eab8e25b521",
+          "changedPixels": 0,
+          "maxChannelDifference": 0,
+          "review": "Matches prior reviewed pixels (at most 1/255 channel rasterization variation)"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Pending gate patch has not been committed by this subagent; root should archive its final committed HEAD for final CI parity confirmation.",
+    "No new game-source or Google indexing result claimed."
+  ],
+  "gateSemantics": [
+    "Exclude generated *.tsbuildinfo and root next-env.d.ts from source fingerprint",
+    "Normalize only root vercel.json via JSON.parse and JSON.stringify; retain key order and values so provider formatting is harmless but semantic edits invalidate evidence"
+  ],
+  "guardedBuild": {
+    "command": "npm run build",
+    "runtime": "Linux22.23.3/npm10.9.9 clean Git candidate",
+    "exitCode": 0,
+    "artifact": {
+      "path": "quality/clean-git-gate/linux-guarded-build.log",
+      "sha256": "30f73707e2f8f515aadbbf897a09836cd2a62d3cf57a7c945dcce9b7fb6c245c"
+    }
+  },
+  "providerFormattedGate": {
+    "passed": true,
+    "fingerprint": {
+      "sha256": "ff085b72a157c811e9a67b4fa3ce524af3878b41261491331235941076e6c514",
+      "files": 30
+    },
+    "artifact": {
+      "path": "quality/clean-git-gate/provider-formatted-gate.json",
+      "sha256": "3d5494be880d14492493394ae3db2bd317a02b6e52075439c7d1626ce23fe9bf"
+    }
+  },
+  "independentBrowserCheck": {
+    "reviewer": "Codex agent / Roblox repairs",
+    "scope": "Actual independent local browser check, not production",
+    "routes": 10,
+    "resources": 101,
+    "artifact": {
+      "path": "quality/clean-git-gate/independent-browser-check.json",
+      "sha256": "9d66b29c45ecf451f254e29ffeb786d46be8f2f7c1dc01384c667257a1b5ece5"
+    }
+  }
+}

@@ -1,22 +1,20 @@
-v22.23.3
-10.9.9
 
 > little-troubles-in-spooky-town-wiki@0.1.0 build:site
 > next build
 
 ▲ Next.js 16.3.2 (Turbopack)
-✓ Running next.config.mjs took 13ms
+✓ Running next.config.mjs took 9ms
 
   Creating an optimized production build ...
-✓ Compiled successfully in 5.9s
+✓ Compiled successfully in 6.0s
   Running TypeScript ...
-  Finished TypeScript in 1986ms ...
+  Finished TypeScript in 2.2s ...
   Collecting page data using 7 workers ...
   Generating static pages using 7 workers (0/14) ...
   Generating static pages using 7 workers (3/14) 
   Generating static pages using 7 workers (6/14) 
   Generating static pages using 7 workers (10/14) 
-✓ Generating static pages using 7 workers (14/14) in 431ms
+✓ Generating static pages using 7 workers (14/14) in 521ms
   Finalizing page optimization ...
 
 Route (app)
